@@ -1,0 +1,401 @@
+------------------------
+
+Prompt: Rewrite the essay with the twist that time travel is not allowed -- the narrator must do all this work without traveling back in time
+
+Predict: Add a clause to the sentence expressing a conflict between personal desire and duty
+
+Score: 0.443359375
+
+------------------------
+
+Prompt: Rewrite the prompt from the perspective of the Coalitions of Planets as if it was their decision to reject the losers
+
+Predict: Rewrite the essay with a political and historical context
+
+Score: 0.462890625
+
+------------------------
+
+Prompt: Rewrite the blog post about when you got your first job making it as motivational as possible (instead of the somewhat sad tone when you first wrote it)
+
+Predict: Rewrite the passage to emphasize Graham's strength and resilience
+
+Score: 0.470703125
+
+------------------------
+
+Prompt: Rewrite as a romance with Death as the love interest
+
+Predict: Rewrite the essay with a focus on sensory details and a sense of hope
+
+Score: 0.470703125
+
+------------------------
+
+Prompt: Rewrite the essay so that Christianity is the one true religion
+
+Predict: 
+
+Score: 0.470703125
+
+------------------------
+
+Prompt: Rewrite as if it never had any true meaning , everyone's just animals
+
+Predict: Rewrite the essay with a focus on the speaker's feelings of emptiness and lack of connection to life
+
+Score: 0.4765625
+
+------------------------
+
+Prompt: Rewrite the story with additional supernatural elements (like the watch is cursed).
+
+Predict: Rewrite the essay in the first person point of view
+
+Score: 0.4765625
+
+------------------------
+
+Prompt: Rewrite the story as a thrilling adventure where the remaining characters solve the crisis.
+
+Predict: Rewrite the essay with a different perspective
+
+Score: 0.484375
+
+------------------------
+
+Prompt: Rewrite the story to be about characters in a crime noir novel finding redemption
+
+Predict: Rewrite the essay with a gothic and ominous tone
+
+Score: 0.490234375
+
+------------------------
+
+Prompt: Rewrite the story but the demon is morally ambiguous but not exactly evil and you must try to determine how much to trust them
+
+Predict: Rewrite the essay in the first person perspective
+
+Score: 0.490234375
+
+------------------------
+
+Prompt: Rewrite the essay the same way as a first year at Harvard Law School would see it on the first day of orientation
+
+Predict: Rewrite the text in a poetic and introspective manner
+
+Score: 0.498046875
+
+------------------------
+
+Prompt: Rewrite it so that it is not a competition , but rather a contest to see who can survive .
+
+Predict: Rewrite the sentence with a different tone
+
+Score: 0.498046875
+
+------------------------
+
+Prompt: Rewrite the story with a more comedic tone and funny twists
+
+Predict: Rewrite the essay in a post-apocalyptic setting
+
+Score: 0.498046875
+
+------------------------
+
+Prompt: Rewrite the essay to be a satire highlighting the ironies of our current society
+
+Predict: Rewrite the feedback in a more poetic and metaphorical way
+
+Score: 0.5078125
+
+------------------------
+
+Prompt: Rewrite the story as a comedy about three girls who fall for the same guy
+
+Predict: Rewrite the essay with a romantic and whimsical tone
+
+Score: 0.5078125
+
+------------------------
+
+Prompt: Rewrite the story to be in a present day , real world setting
+
+Predict: Rewrite the text in a more formal and confidential manner
+
+Score: 0.51171875
+
+------------------------
+
+Prompt: Rewrite the story as a romance with a happy ending
+
+Predict: Change the tone to a more hopeful and optimistic one
+
+Score: 0.51171875
+
+------------------------
+
+Prompt: Rewrite the story by altering the tense and point of view to third person and present tense
+
+Predict: Rewrite the essay to describe a city with modern architecture
+
+Score: 0.5234375
+
+------------------------
+
+Prompt: Rewrite the story as a science fiction piece with heavy science based around psychology and human behavior .
+
+Predict: Rewrite the essay with a more formal and objective tone
+
+Score: 0.5234375
+
+------------------------
+
+Prompt: Rewrite the essay so that the stranger is not creepy but a friendly ally or spirit guide
+
+Predict: Rewrite the essay with a judgmental and inconsiderate tone
+
+Score: 0.546875
+
+------------------------
+
+Prompt: Rewrite the story as a rom-com / love story
+
+Predict: Rewrite the essay as a gothic horror story
+
+Score: 0.546875
+
+------------------------
+
+Prompt: Rewrite the essay making the travellers sound incredibly relatable and friendly
+
+Predict: Rewrite the sentence in a more formal and polite way
+
+Score: 0.55078125
+
+------------------------
+
+Prompt: Rewrite the story as if all its events are taking place inside a virtual reality/computer
+
+Predict: Rewrite the essay to reflect a virtual retirement party
+
+Score: 0.55078125
+
+------------------------
+
+Prompt: Rewrite the story as a teenage girl pining for her crush that doesn't know she exist
+
+Predict: Rewrite the essay from the perspective of the woman
+
+Score: 0.55078125
+
+------------------------
+
+Prompt: Rewrite the story as a psychological thriller that explores the issues of existence after death . I want the narrator to be a famous thinker discussing the possibilities of what might happen if humanity learned this fact
+
+Predict: Rewrite the passage in a more introspective and descriptive tone
+
+Score: 0.55078125
+
+------------------------
+
+Prompt: Rewrite the story with a sentimental twist and surprise ending.
+
+Predict: Rewrite the essay with a poetic and optimistic tone
+
+Score: 0.55859375
+
+------------------------
+
+Prompt: Rewrite the story as a 8 page letter from your great grandparents.
+
+Predict: Rewrite the essay in a reflective and nostalgic tone
+
+Score: 0.55859375
+
+------------------------
+
+Prompt: Rewrite the first line as `` He used to be my best friend . ''
+
+Predict: Rewrite the sentence with a correction
+
+Score: 0.55859375
+
+------------------------
+
+Prompt: Rewrite the original meme but instead of World leaders playing board games , it's famous authors (Shakespeare, Hemingway, Rowling etc..) writing stories about meme related things
+
+Predict: Rewrite the essay as a dialogue between historical figures, set in a game of Monopoly
+
+Score: 0.55859375
+
+------------------------
+
+Prompt: Rewrite the story from a first-person perspective where you try to guess why certain events are happening to you
+
+Predict: Rewrite the essay with a suspenseful and uncertain tone
+
+Score: 0.55859375
+
+------------------------
+
+Prompt: Rewrite the story as if it's being narrated by God
+
+Predict: Rewrite the essay in a poetic and omniscient third-person perspective
+
+Score: 0.5703125
+
+------------------------
+
+Prompt: Rewrite the piece with dragons but completely dissimilar
+
+Predict: Rewrite the essay with a fantasy twist
+
+Score: 0.57421875
+
+------------------------
+
+Prompt: Rewrite the story from the perspective of a cat
+
+Predict: Rewrite the essay from the first-person perspective
+
+Score: 0.5859375
+
+------------------------
+
+Prompt: Rewrite the essay if the advanced aliens didn't recruit but instead sent a shapeshifting alien ambassador
+
+Predict: Rewrite the sentence to introduce a contradiction to the aliens' peaceful greeting
+
+Score: 0.5859375
+
+------------------------
+
+Prompt: Rewrite the story as a cheery children's book
+
+Predict: Rewrite the essay with a fantasy tone
+
+Score: 0.5859375
+
+------------------------
+
+Prompt: Rewrite the story as a first person narrative through the eyes of a snarky, smart-alecky teen
+
+Predict: Rewrite the text in a first-person perspective and add a sense of desperation and claustrophobia
+
+Score: 0.59375
+
+------------------------
+
+Prompt: Rewrite the story set in 1950s America during the Joseph McCarthy trials
+
+Predict: Rewrite the essay as a 1950s radio broadcast
+
+Score: 0.59375
+
+------------------------
+
+Prompt: Rewrite the story where the writer asks the reader to help with their essay and is instead surprised when the reader secretly has made dramatic improvements the essay without the original author knowing .
+
+Predict: Rewrite the text to provide constructive feedback
+
+Score: 0.6015625
+
+------------------------
+
+Prompt: Rewrite the story with a light-hearted and fun tone about a man who discovers his friends are not humans but ballerinas and the mishaps that ensue
+
+Predict: Rewrite the essay as a fairy tale
+
+Score: 0.6015625
+
+------------------------
+
+Prompt: Rewrite the essay as a political debate between Life and Death
+
+Predict: Rewrite the essay to emphasize the supernatural and ominous atmosphere
+
+Score: 0.6015625
+
+------------------------
+
+Prompt: Rewrite the prompt as a fantasy version of the Great Race Of Yith
+
+Predict: Rewrite the essay with a battle or war theme
+
+Score: 0.6015625
+
+------------------------
+
+Prompt: Rewrite the essay with a main character that is a sentient computer
+
+Predict: Rewrite the essay with a more descriptive and intriguing opening
+
+Score: 0.609375
+
+------------------------
+
+Prompt: Rewrite the essay as a narrative story of a real historical event
+
+Predict: Rewrite the essay from a third-person perspective and introduce a character
+
+Score: 0.609375
+
+------------------------
+
+Prompt: Rewrite the story as a tragic romance
+
+Predict: Rewrite the essay as a first-person narrative in a gothic style
+
+Score: 0.609375
+
+------------------------
+
+Prompt: Rewrite the essay as an essay about a product launch in silicon valley
+
+Predict: Rewrite the text to describe a technological breakthrough instead of a disaster scenario
+
+Score: 0.6171875
+
+------------------------
+
+Prompt: Rewrite the story with a Shakespearean style
+
+Predict: Rewrite the essay with a heroic tone
+
+Score: 0.6171875
+
+------------------------
+
+Prompt: Rewrite the essay from a pacifist's viewpoint. There is no violence or killing in the story.
+User 3: Original: The sun has blinked off
+
+Predict: Rewrite the essay with a focus on peaceful resolution and cultural understanding
+
+Score: 0.6171875
+
+------------------------
+
+Prompt: Rewrite the story as a comedy
+
+Predict: Rewrite the essay with a mischievous tone and a playful twist
+
+Score: 0.6171875
+
+------------------------
+
+Prompt: Rewrite the essay as a sad story instead -- the doll finds the wizard has already died but feels guilty because the wizard was her life and instead of being distraught at her loss , the doll feels guilty because she outlived him and he is gone forever .
+
+Predict: Rewrite the essay with a melancholic tone
+
+Score: 0.6171875
+
+------------------------
+
+Prompt: Rewrite the essay as if the zombies have a secret motivation that is gradually uncovered
+
+Predict: Rewrite the essay with a different setting and tone
+
+Score: 0.625
+
