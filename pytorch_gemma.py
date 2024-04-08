@@ -249,7 +249,7 @@ DATA_PATH = Path("./data")
 
 import pandas as pd
 import tqdm
-df = pd.read_csv(DATA_PATH / '200px30t_data_predict_aug.csv')
+df = pd.read_csv(DATA_PATH / 'validate_dataset.csv')
 
 
 # In[38]:
@@ -282,8 +282,6 @@ def truncate_words(text, max_words):
 batch_size = 4
 
 for split_idx, df_s in enumerate(df_splits):
-    if split_idx < 7:
-        continue
     print(f'Chunk {split_idx} ..')
     rows = []
     for idx in tqdm.tqdm(range(0, len(df_s), batch_size)):
@@ -291,24 +289,24 @@ for split_idx, df_s in enumerate(df_splits):
         prompts = []
         for _, row in batch_df.iterrows():
             p = prompt.format(row['rewrite_prompt'], truncate_words(row['original_text'], 200))
-            prompts += [p, ] * 10
+            prompts += [p, ]
 
         try:
             results = model.generate(
                 prompts,
                 device=device,
-                output_len=300,
+                output_len=250,
             )
             i = 0
             for _, row in batch_df.iterrows():
-                rs = results[i*10:(i+1)*10]
+                rs = results[i]
                 i += 1
                 row = {
                     'rewrite_prompt': row['rewrite_prompt'],
                     'original_text': row['original_text'],
                 }
                 row.update({
-                    f'rewritten_text_{i}': results[i] for i in range(len(results))
+                    f'rewritten_text': rs,
                 })
                 rows.append(row)
         except Exception as e:
@@ -317,7 +315,7 @@ for split_idx, df_s in enumerate(df_splits):
 
     print(f'Saving chunk {split_idx} ..')
     df_s = pd.DataFrame(rows)
-    df_s.to_csv(DATA_PATH / f'200px30t_data_predict_aug_chunk_{split_idx}.csv', index=False)
+    df_s.to_csv(DATA_PATH / f'validate_dataset_chunk_{split_idx}.csv', index=False)
 
 
 # In[ ]:
