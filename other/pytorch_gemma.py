@@ -59,7 +59,7 @@ kagglehub.login()
 # In[5]:
 
 
-get_ipython().system('pip install -q -U immutabledict sentencepiece')
+get_ipython().system('pip install -q -U immutabledict sentencepiece pandas numpy tqdm')
 
 
 # ## Download model weights
@@ -249,7 +249,7 @@ DATA_PATH = Path("./data")
 
 import pandas as pd
 import tqdm
-df = pd.read_csv(DATA_PATH / 'validate_dataset.csv')
+df = pd.read_csv(DATA_PATH / 'diverse_dataset.csv')
 
 
 # In[38]:
@@ -259,7 +259,7 @@ import numpy as np
 
 df.shape
 
-df_splits = np.array_split(df, 10)
+df_splits = np.array_split(df, 5)
 
 
 # In[39]:
