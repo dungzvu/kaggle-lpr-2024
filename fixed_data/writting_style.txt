@@ -1,0 +1,242 @@
+Poem
+Sonnet
+Haiku
+Limerick
+Ballad
+Epic
+Ode
+Villanelle
+Free verse
+Blank verse
+Sestina
+Ghazal
+Pantoum
+Tanka
+Acrostic
+Elegy
+Prose poem
+Concrete poetry
+Narrative poem
+Lyrical
+Lyric poem
+Romantic poetry
+Metaphysical poetry
+Pastoral poetry
+Satirical poetry
+Confessional poetry
+Surrealist poetry
+Modernist poetry
+Postmodernist poetry
+Beat poetry
+Slam poetry
+Spoken word poetry
+Found poetry
+Epistolary poetry
+Eclogue
+Sapphic stanza
+Terza rima
+Tercet
+Quatrain
+Quintain
+Sextain
+Octave
+Envoi
+Refrain
+Villancico
+Canto
+Stanza
+Strophe
+Verse
+Lyricism
+Prose
+Fiction
+Non-fiction
+Memoir
+Autobiography
+Biography
+Travelogue
+Essay
+Article
+Review
+Critique
+Editorial
+Feature story
+Interview
+Satire
+Comedy
+Tragedy
+Drama
+Screenplay
+Play
+Monologue
+Soliloquy
+Dialogue
+Script
+Libretto
+Epic poetry
+Folk tale
+Legend
+Myth
+Fable
+Fairy tale
+Allegory
+Parable
+Tall tale
+Urban legend
+Origin myth
+Creation myth
+Heroic myth
+Elegiac poetry
+Narrative verse
+Rhapsody
+Pastiche
+Homage
+Parody
+Mock epic
+Allegorical tale
+Metafiction
+Postcolonial literature
+Magical realism
+Absurdist literature
+Dystopian fiction
+Utopian fiction
+Historical fiction
+Gothic fiction
+Bildungsroman
+Mystery
+Thriller
+Detective fiction
+Science fiction
+Fantasy
+Horror
+Romance
+Adventure
+Western
+Satirical fiction
+Realistic fiction
+Experimental fiction
+Flash fiction
+Short story
+Novella
+Novel
+Sea shanty
+Narrative
+Descriptive
+Expository
+Persuasive
+Argumentative
+Analytical
+Reflective
+Creative
+Technical
+Academic
+Journalistic
+Autobiographical
+Biographical
+Historical
+Fictional
+Non-fictional
+Satirical
+Comedy
+Tragedy
+Drama
+Romance
+Mystery
+Thriller
+Horror
+Fantasy
+Science Fiction
+Dystopian
+Utopian
+Historical Fiction
+Realistic Fiction
+Gothic Fiction
+Bildungsroman
+Epistolary
+Stream of Consciousness
+Surrealistic
+Magical Realism
+Metafiction
+Experimental
+Flash Fiction
+Short Story
+Novella
+Novel
+Prose
+Poetry
+Sonnet
+Haiku
+Limerick
+Ballad
+Epic
+Ode
+Villanelle
+Free Verse
+Blank Verse
+Sestina
+Ghazal
+Pantoum
+Tanka
+Acrostic
+Elegy
+Prose Poem
+Concrete Poetry
+Narrative Poetry
+Lyric Poetry
+Satirical Poetry
+Confessional Poetry
+Surrealist Poetry
+Modernist Poetry
+Postmodernist Poetry
+Beat Poetry
+Slam Poetry
+Spoken Word Poetry
+Found Poetry
+Epistolary Poetry
+Eclogue
+Sapphic Stanza
+Terza Rima
+Tercet
+Quatrain
+Quintain
+Sextain
+Octave
+Envoi
+Refrain
+Villancico
+Canto
+Stanza
+Strophe
+Verse
+Lyricism
+Folk Tale
+Legend
+Myth
+Fable
+Fairy Tale
+Allegory
+Parable
+Tall Tale
+Urban Legend
+Origin Myth
+Creation Myth
+Heroic Myth
+Elegiac Poetry
+Narrative Verse
+Rhapsody
+Pastiche
+Homage
+Parody
+Mock Epic
+Allegorical Tale
+Postcolonial Literature
+Absurdist Literature
+Satirical Fiction
+Children's Literature
+Young Adult Literature
+Middle Grade Literature
+Detective Fiction
+Crime Fiction
+Legal Thriller
+Medical Thriller
+Political Thriller

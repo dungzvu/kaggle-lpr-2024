@@ -1,0 +1,216 @@
+Thesis
+Dissertation
+Research paper
+Business plan
+Financial analysis
+Executive summary
+Business proposal
+Marketing plan
+Strategic plan
+Annual report
+Case study
+White paper
+Feasibility study
+Market research report
+Business model canvas
+SWOT analysis
+Project proposal
+Pitch deck
+Sales forecast
+Product roadmap
+Competitive analysis
+Product specification document
+Risk assessment report
+Business requirement document
+User manual
+Instruction manual
+Standard operating procedure (SOP)
+Corporate governance document
+Employee handbook
+Code of conduct
+Compliance report
+Policy brief
+Marketing strategy document
+Brand guidelines
+Crisis management plan
+Partnership agreement
+Non-disclosure agreement (NDA)
+Memorandum of understanding (MOU)
+Shareholder agreement
+Term sheet
+Employment contract
+Licensing agreement
+Lease agreement
+Invoice
+Purchase order
+Sales contract
+Service level agreement (SLA)
+Request for proposal (RFP)
+Request for quotation (RFQ)
+Statement of work (SOW)
+Customer contract
+Supplier contract
+Distribution agreement
+Joint venture agreement
+Franchise agreement
+Letter of intent (LOI)
+Minutes of meeting
+Progress report
+Quarterly report
+Monthly report
+Incident report
+Expense report
+Work order
+Change request
+Test plan
+Test case
+User story
+User journey map
+Product backlog
+Sprint backlog
+Release plan
+Product requirements document (PRD)
+User interface (UI) design document
+Wireframe
+Prototype
+Product specification document
+Technical specification document
+System architecture document
+Database schema
+API documentation
+Code documentation
+Deployment plan
+Disaster recovery plan
+Business continuity plan
+Security policy
+IT infrastructure documentation
+Network diagram
+User access matrix
+Privacy policy
+Terms of service
+Copyright notice
+Trademark registration
+Patent application
+Intellectual property assignment agreement
+Data privacy impact assessment
+Data retention policy
+Data breach response plan
+IT security policy
+Access control policy
+Incident response plan
+Supplier performance scorecard
+Employee performance review
+Training manual
+Onboarding guide
+Employee survey
+Customer satisfaction survey
+Market segmentation analysis
+Market opportunity analysis
+Product lifecycle analysis
+Portfolio analysis
+Risk management plan
+Business continuity plan
+Email
+Letter
+Resume
+Memo
+Letter (Business, Formal, Informal)
+Email (Business, Formal, Informal)
+Report (Annual, Quarterly, Monthly)
+Proposal
+Agenda
+Minutes (Meeting Minutes)
+Invoice
+Receipt
+Purchase Order
+Contract
+Agreement
+Memorandum of Understanding (MOU)
+Non-Disclosure Agreement (NDA)
+Memorandum
+Executive Summary
+Press Release
+Request for Proposal (RFP)
+Request for Quotation (RFQ)
+Statement of Work (SOW)
+Business Plan
+Marketing Plan
+Strategic Plan
+Financial Plan
+Project Plan
+Budget
+Financial Statement
+Balance Sheet
+Income Statement
+Cash Flow Statement
+Profit and Loss Statement (P&L)
+Sales Forecast
+Marketing Strategy
+Business Case
+Risk Management Plan
+Disaster Recovery Plan
+Contingency Plan
+Action Plan
+Training Manual
+Policy Document
+Procedure Manual
+Employee Handbook
+Operations Manual
+Standard Operating Procedures (SOP)
+Quality Assurance Plan
+Business Continuity Plan
+Incident Response Plan
+Security Policy
+IT Governance Document
+Service Level Agreement (SLA)
+Work Order
+Change Request
+Test Plan
+Test Case
+User Manual
+Technical Specification
+User Guide
+User Requirement Document (URD)
+System Requirements Specification (SRS)
+Request for Change (RFC)
+Service Level Requirement (SLR)
+Contract Addendum
+Amendment
+Warranty Document
+Installation Guide
+Maintenance Manual
+Inspection Report
+Incident Report
+Evaluation Report
+Performance Review
+Feedback Form
+Survey
+Job Description
+Position Description
+Recruitment Advertisement
+Employment Contract
+Termination Letter
+Resignation Letter
+Promotion Letter
+Transfer Letter
+Recommendation Letter
+Employee Evaluation Form
+Disciplinary Action Form
+Attendance Record
+Training Plan
+Training Evaluation Form
+Leave Request Form
+Expense Report
+Purchase Requisition
+Supplier Evaluation Form
+Supplier Contract
+Supplier Performance Scorecard
+Supplier Audit Report
+Customer Complaint Form
+Customer Satisfaction Survey
+Customer Feedback Form
+Product Specification Document
+Product Roadmap
+Product Launch Plan
+Release Notes
+Sport Comentary

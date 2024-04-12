@@ -1,0 +1,1160 @@
+type,objective,rewrite_prompt,explain_prompt
+ADJECTIVE,abstract,Rewrite this text but do it using abstract tone,
+ADJECTIVE,academic,Rewrite this text but do it using academic tone,
+ADJECTIVE,accessible,Rewrite this text but do it using accessible tone,
+ADJECTIVE,action-packed,Rewrite this text but do it using action-packed tone,
+ADJECTIVE,adventurous,Rewrite this text but do it using adventurous tone,
+ADJECTIVE,ambiguous,Rewrite this text but do it using ambiguous tone,
+ADJECTIVE,amusing,Rewrite this text but do it using amusing tone,
+ADJECTIVE,analytical,Rewrite this text but do it using analytical tone,
+ADJECTIVE,artful,Rewrite this text but do it using artful tone,
+ADJECTIVE,atmospheric,Rewrite this text but do it using atmospheric tone,
+ADJECTIVE,authoritative,Rewrite this text but do it using authoritative tone,
+ADJECTIVE,biting,Rewrite this text but do it using biting tone,
+ADJECTIVE,bittersweet,Rewrite this text but do it using bittersweet tone,
+ADJECTIVE,bold,Rewrite this text but do it using bold tone,
+ADJECTIVE,breezy,Rewrite this text but do it using breezy tone,
+ADJECTIVE,candid,Rewrite this text but do it using candid tone,
+ADJECTIVE,cerebral,Rewrite this text but do it using cerebral tone,
+ADJECTIVE,character-driven,Rewrite this text but do it using character-driven tone,
+ADJECTIVE,charming,Rewrite this text but do it using charming tone,
+ADJECTIVE,cinematic,Rewrite this text but do it using cinematic tone,
+ADJECTIVE,classic,Rewrite this text but do it using classic tone,
+ADJECTIVE,clever,Rewrite this text but do it using clever tone,
+ADJECTIVE,colorful,Rewrite this text but do it using colorful tone,
+ADJECTIVE,complex,Rewrite this text but do it using complex tone,
+ADJECTIVE,concise,Rewrite this text but do it using concise tone,
+ADJECTIVE,confessional,Rewrite this text but do it using confessional tone,
+ADJECTIVE,contemplative,Rewrite this text but do it using contemplative tone,
+ADJECTIVE,contemporary,Rewrite this text but do it using contemporary tone,
+ADJECTIVE,convincing,Rewrite this text but do it using convincing tone,
+ADJECTIVE,creative,Rewrite this text but do it using creative tone,
+ADJECTIVE,critical,Rewrite this text but do it using critical tone,
+ADJECTIVE,cryptic,Rewrite this text but do it using cryptic tone,
+ADJECTIVE,cultured,Rewrite this text but do it using cultured tone,
+ADJECTIVE,cutting-edge,Rewrite this text but do it using cutting-edge tone,
+ADJECTIVE,dark,Rewrite this text but do it using dark tone,
+ADJECTIVE,dazzling,Rewrite this text but do it using dazzling tone,
+ADJECTIVE,defiant,Rewrite this text but do it using defiant tone,
+ADJECTIVE,dense,Rewrite this text but do it using dense tone,
+ADJECTIVE,descriptive,Rewrite this text but do it using descriptive tone,
+ADJECTIVE,dialogic,Rewrite this text but do it using dialogic tone,
+ADJECTIVE,direct,Rewrite this text but do it using direct tone,
+ADJECTIVE,dramatic,Rewrite this text but do it using dramatic tone,
+ADJECTIVE,dreamy,Rewrite this text but do it using dreamy tone,
+ADJECTIVE,dynamic,Rewrite this text but do it using dynamic tone,
+ADJECTIVE,earnest,Rewrite this text but do it using earnest tone,
+ADJECTIVE,edgy,Rewrite this text but do it using edgy tone,
+ADJECTIVE,elegant,Rewrite this text but do it using elegant tone,
+ADJECTIVE,emotional,Rewrite this text but do it using emotional tone,
+ADJECTIVE,enchanting,Rewrite this text but do it using enchanting tone,
+ADJECTIVE,endearing,Rewrite this text but do it using endearing tone,
+ADJECTIVE,engaging,Rewrite this text but do it using engaging tone,
+ADJECTIVE,enlightening,Rewrite this text but do it using enlightening tone,
+ADJECTIVE,entertaining,Rewrite this text but do it using entertaining tone,
+ADJECTIVE,epic,Rewrite this text but do it using epic tone,
+ADJECTIVE,esoteric,Rewrite this text but do it using esoteric tone,
+ADJECTIVE,evocative,Rewrite this text but do it using evocative tone,
+ADJECTIVE,experimental,Rewrite this text but do it using experimental tone,
+ADJECTIVE,exquisite,Rewrite this text but do it using exquisite tone,
+ADJECTIVE,fanciful,Rewrite this text but do it using fanciful tone,
+ADJECTIVE,fantastic,Rewrite this text but do it using fantastic tone,
+ADJECTIVE,fierce,Rewrite this text but do it using fierce tone,
+ADJECTIVE,fluid,Rewrite this text but do it using fluid tone,
+ADJECTIVE,forceful,Rewrite this text but do it using forceful tone,
+ADJECTIVE,formal,Rewrite this text but do it using formal tone,
+ADJECTIVE,free-flowing,Rewrite this text but do it using free-flowing tone,
+ADJECTIVE,fresh,Rewrite this text but do it using fresh tone,
+ADJECTIVE,frightening,Rewrite this text but do it using frightening tone,
+ADJECTIVE,gritty,Rewrite this text but do it using gritty tone,
+ADJECTIVE,haunting,Rewrite this text but do it using haunting tone,
+ADJECTIVE,heartfelt,Rewrite this text but do it using heartfelt tone,
+ADJECTIVE,high-spirited,Rewrite this text but do it using high-spirited tone,
+ADJECTIVE,hilarious,Rewrite this text but do it using hilarious tone,
+ADJECTIVE,historical,Rewrite this text but do it using historical tone,
+ADJECTIVE,honest,Rewrite this text but do it using honest tone,
+ADJECTIVE,hopeful,Rewrite this text but do it using hopeful tone,
+ADJECTIVE,humorous,Rewrite this text but do it using humorous tone,
+ADJECTIVE,iconic,Rewrite this text but do it using iconic tone,
+ADJECTIVE,imaginative,Rewrite this text but do it using imaginative tone,
+ADJECTIVE,impassioned,Rewrite this text but do it using impassioned tone,
+ADJECTIVE,impressive,Rewrite this text but do it using impressive tone,
+ADJECTIVE,incisive,Rewrite this text but do it using incisive tone,
+ADJECTIVE,inclusive,Rewrite this text but do it using inclusive tone,
+ADJECTIVE,informal,Rewrite this text but do it using informal tone,
+ADJECTIVE,informative,Rewrite this text but do it using informative tone,
+ADJECTIVE,ingenious,Rewrite this text but do it using ingenious tone,
+ADJECTIVE,inquisitive,Rewrite this text but do it using inquisitive tone,
+ADJECTIVE,insightful,Rewrite this text but do it using insightful tone,
+ADJECTIVE,inspiring,Rewrite this text but do it using inspiring tone,
+ADJECTIVE,intense,Rewrite this text but do it using intense tone,
+ADJECTIVE,intimate,Rewrite this text but do it using intimate tone,
+ADJECTIVE,intricate,Rewrite this text but do it using intricate tone,
+ADJECTIVE,invigorating,Rewrite this text but do it using invigorating tone,
+ADJECTIVE,irreverent,Rewrite this text but do it using irreverent tone,
+ADJECTIVE,ironic,Rewrite this text but do it using ironic tone,
+ADJECTIVE,lively,Rewrite this text but do it using lively tone,
+ADJECTIVE,literary,Rewrite this text but do it using literary tone,
+ADJECTIVE,magical,Rewrite this text but do it using magical tone,
+ADJECTIVE,meditative,Rewrite this text but do it using meditative tone,
+ADJECTIVE,melancholic,Rewrite this text but do it using melancholic tone,
+ADJECTIVE,mysterious,Rewrite this text but do it using mysterious tone,
+ADJECTIVE,mythic,Rewrite this text but do it using mythic tone,
+ADJECTIVE,nostalgic,Rewrite this text but do it using nostalgic tone,
+ADJECTIVE,observational,Rewrite this text but do it using observational tone,
+ADJECTIVE,optimistic,Rewrite this text but do it using optimistic tone,
+ADJECTIVE,original,Rewrite this text but do it using original tone,
+ADJECTIVE,passionate,Rewrite this text but do it using passionate tone,
+ADJECTIVE,poetic,Rewrite this text but do it using poetic tone,
+ADJECTIVE,playful,Rewrite this text but do it using playful tone,
+ADJECTIVE,poignant,Rewrite this text but do it using poignant tone,
+ADJECTIVE,political,Rewrite this text but do it using political tone,
+ADJECTIVE,powerful,Rewrite this text but do it using powerful tone,
+ADJECTIVE,provocative,Rewrite this text but do it using provocative tone,
+ADJECTIVE,psychological,Rewrite this text but do it using psychological tone,
+ADJECTIVE,quirky,Rewrite this text but do it using quirky tone,
+ADJECTIVE,reflective,Rewrite this text but do it using reflective tone,
+ADJECTIVE,relevant,Rewrite this text but do it using relevant tone,
+ADJECTIVE,resonant,Rewrite this text but do it using resonant tone,
+ADJECTIVE,romantic,Rewrite this text but do it using romantic tone,
+ADJECTIVE,satirical,Rewrite this text but do it using satirical tone,
+ADJECTIVE,scathing,Rewrite this text but do it using scathing tone,
+ADJECTIVE,sensational,Rewrite this text but do it using sensational tone,
+ADJECTIVE,sentimental,Rewrite this text but do it using sentimental tone,
+ADJECTIVE,serious,Rewrite this text but do it using serious tone,
+ADJECTIVE,sharp,Rewrite this text but do it using sharp tone,
+ADJECTIVE,soothing,Rewrite this text but do it using soothing tone,
+ADJECTIVE,sophisticated,Rewrite this text but do it using sophisticated tone,
+ADJECTIVE,spooky,Rewrite this text but do it using spooky tone,
+ADJECTIVE,stark,Rewrite this text but do it using stark tone,
+ADJECTIVE,stirring,Rewrite this text but do it using stirring tone,
+ADJECTIVE,story-driven,Rewrite this text but do it using story-driven tone,
+ADJECTIVE,striking,Rewrite this text but do it using striking tone,
+ADJECTIVE,subtle,Rewrite this text but do it using subtle tone,
+ADJECTIVE,surreal,Rewrite this text but do it using surreal tone,
+ADJECTIVE,suspenseful,Rewrite this text but do it using suspenseful tone,
+ADJECTIVE,symbolic,Rewrite this text but do it using symbolic tone,
+ADJECTIVE,thought-provoking,Rewrite this text but do it using thought-provoking tone,
+ADJECTIVE,timely,Rewrite this text but do it using timely tone,
+ADJECTIVE,touching,Rewrite this text but do it using touching tone,
+ADJECTIVE,traditional,Rewrite this text but do it using traditional tone,
+ADJECTIVE,tragic,Rewrite this text but do it using tragic tone,
+ADJECTIVE,transformative,Rewrite this text but do it using transformative tone,
+ADJECTIVE,transparent,Rewrite this text but do it using transparent tone,
+ADJECTIVE,trenchant,Rewrite this text but do it using trenchant tone,
+ADJECTIVE,triumphant,Rewrite this text but do it using triumphant tone,
+ADJECTIVE,unconventional,Rewrite this text but do it using unconventional tone,
+ADJECTIVE,unexpected,Rewrite this text but do it using unexpected tone,
+ADJECTIVE,unforgettable,Rewrite this text but do it using unforgettable tone,
+ADJECTIVE,unsettling,Rewrite this text but do it using unsettling tone,
+ADJECTIVE,unusual,Rewrite this text but do it using unusual tone,
+ADJECTIVE,uplifting,Rewrite this text but do it using uplifting tone,
+ADJECTIVE,urgent,Rewrite this text but do it using urgent tone,
+ADJECTIVE,vivid,Rewrite this text but do it using vivid tone,
+ADJECTIVE,witty,Rewrite this text but do it using witty tone,
+ADJECTIVE,wry,Rewrite this text but do it using wry tone,
+ADJECTIVE,yearning,Rewrite this text but do it using yearning tone,
+ADJECTIVE,youthful,Rewrite this text but do it using youthful tone,
+ADJECTIVE,zealous,Rewrite this text but do it using zealous tone,
+ADJECTIVE,absurd,Rewrite this text but do it using absurd tone,
+ADJECTIVE,alluring,Rewrite this text but do it using alluring tone,
+ADJECTIVE,ambitious,Rewrite this text but do it using ambitious tone,
+ADJECTIVE,avant-garde,Rewrite this text but do it using avant-garde tone,
+ADJECTIVE,candid,Rewrite this text but do it using candid tone,
+ADJECTIVE,cathartic,Rewrite this text but do it using cathartic tone,
+ADJECTIVE,challenging,Rewrite this text but do it using challenging tone,
+ADJECTIVE,cynical,Rewrite this text but do it using cynical tone,
+ADJECTIVE,daring,Rewrite this text but do it using daring tone,
+ADJECTIVE,delicate,Rewrite this text but do it using delicate tone,
+ADJECTIVE,discerning,Rewrite this text but do it using discerning tone,
+ADJECTIVE,disillusioned,Rewrite this text but do it using disillusioned tone,
+ADJECTIVE,droll,Rewrite this text but do it using droll tone,
+ADJECTIVE,eclectic,Rewrite this text but do it using eclectic tone,
+ADJECTIVE,electric,Rewrite this text but do it using electric tone,
+ADJECTIVE,enigmatic,Rewrite this text but do it using enigmatic tone,
+ADJECTIVE,exhilarating,Rewrite this text but do it using exhilarating tone,
+ADJECTIVE,fervent,Rewrite this text but do it using fervent tone,
+ADJECTIVE,forward-thinking,Rewrite this text but do it using forward-thinking tone,
+ADJECTIVE,frivolous,Rewrite this text but do it using frivolous tone,
+ADJECTIVE,gossamer,Rewrite this text but do it using gossamer tone,
+ADJECTIVE,groundbreaking,Rewrite this text but do it using groundbreaking tone,
+ADJECTIVE,haphazard,Rewrite this text but do it using haphazard tone,
+ADJECTIVE,incandescent,Rewrite this text but do it using incandescent tone,
+ADJECTIVE,irreverent,Rewrite this text but do it using irreverent tone,
+ADJECTIVE,jarring,Rewrite this text but do it using jarring tone,
+ADJECTIVE,jubilant,Rewrite this text but do it using jubilant tone,
+ADJECTIVE,kinetic,Rewrite this text but do it using kinetic tone,
+ADJECTIVE,lackadaisical,Rewrite this text but do it using lackadaisical tone,
+ADJECTIVE,languid,Rewrite this text but do it using languid tone,
+ADJECTIVE,luminous,Rewrite this text but do it using luminous tone,
+ADJECTIVE,macabre,Rewrite this text but do it using macabre tone,
+ADJECTIVE,maverick,Rewrite this text but do it using maverick tone,
+ADJECTIVE,measured,Rewrite this text but do it using measured tone,
+ADJECTIVE,mellifluous,Rewrite this text but do it using mellifluous tone,
+ADJECTIVE,mercurial,Rewrite this text but do it using mercurial tone,
+ADJECTIVE,meticulous,Rewrite this text but do it using meticulous tone,
+ADJECTIVE,numinous,Rewrite this text but do it using numinous tone,
+ADJECTIVE,opulent,Rewrite this text but do it using opulent tone,
+ADJECTIVE,panoramic,Rewrite this text but do it using panoramic tone,
+ADJECTIVE,parsimonious,Rewrite this text but do it using parsimonious tone,
+ADJECTIVE,perceptive,Rewrite this text but do it using perceptive tone,
+ADJECTIVE,prosaic,Rewrite this text but do it using prosaic tone,
+AUTHOR,William Shakespeare,Rewrite this text but do it using the writing style of William Shakespeare,Describe the writing style of William Shakespeare in 40 words
+AUTHOR,Jane Austen,Rewrite this text but do it using the writing style of Jane Austen,Describe the writing style of Jane Austen in 40 words
+AUTHOR,Charles Dickens,Rewrite this text but do it using the writing style of Charles Dickens,Describe the writing style of Charles Dickens in 40 words
+AUTHOR,Emily Dickinson,Rewrite this text but do it using the writing style of Emily Dickinson,Describe the writing style of Emily Dickinson in 40 words
+AUTHOR,Johann Sebastian Bach,Rewrite this text but do it using the writing style of Johann Sebastian Bach,Describe the writing style of Johann Sebastian Bach in 40 words
+AUTHOR,J.R.R. Tolkien,Rewrite this text but do it using the writing style of J.R.R. Tolkien,Describe the writing style of J.R.R. Tolkien in 40 words
+AUTHOR,Virginia Woolf,Rewrite this text but do it using the writing style of Virginia Woolf,Describe the writing style of Virginia Woolf in 40 words
+AUTHOR,Mark Twain,Rewrite this text but do it using the writing style of Mark Twain,Describe the writing style of Mark Twain in 40 words
+AUTHOR,Oscar Wilde,Rewrite this text but do it using the writing style of Oscar Wilde,Describe the writing style of Oscar Wilde in 40 words
+AUTHOR,Emily Brontë,Rewrite this text but do it using the writing style of Emily Brontë,Describe the writing style of Emily Brontë in 40 words
+AUTHOR,George Orwell,Rewrite this text but do it using the writing style of George Orwell,Describe the writing style of George Orwell in 40 words
+AUTHOR,Samuel Beckett,Rewrite this text but do it using the writing style of Samuel Beckett,Describe the writing style of Samuel Beckett in 40 words
+AUTHOR,William Wordsworth,Rewrite this text but do it using the writing style of William Wordsworth,Describe the writing style of William Wordsworth in 40 words
+AUTHOR,George Frideric Handel,Rewrite this text but do it using the writing style of George Frideric Handel,Describe the writing style of George Frideric Handel in 40 words
+AUTHOR,Ernest Hemingway,Rewrite this text but do it using the writing style of Ernest Hemingway,Describe the writing style of Ernest Hemingway in 40 words
+AUTHOR,W.B. Yeats,Rewrite this text but do it using the writing style of W.B. Yeats,Describe the writing style of W.B. Yeats in 40 words
+AUTHOR,F. Scott Fitzgerald,Rewrite this text but do it using the writing style of F. Scott Fitzgerald,Describe the writing style of F. Scott Fitzgerald in 40 words
+AUTHOR,Leo Tolstoy,Rewrite this text but do it using the writing style of Leo Tolstoy,Describe the writing style of Leo Tolstoy in 40 words
+AUTHOR,Agatha Christie,Rewrite this text but do it using the writing style of Agatha Christie,Describe the writing style of Agatha Christie in 40 words
+AUTHOR,Ludwig van Beethoven,Rewrite this text but do it using the writing style of Ludwig van Beethoven,Describe the writing style of Ludwig van Beethoven in 40 words
+AUTHOR,Tennessee Williams,Rewrite this text but do it using the writing style of Tennessee Williams,Describe the writing style of Tennessee Williams in 40 words
+AUTHOR,John Keats,Rewrite this text but do it using the writing style of John Keats,Describe the writing style of John Keats in 40 words
+AUTHOR,Walt Whitman,Rewrite this text but do it using the writing style of Walt Whitman,Describe the writing style of Walt Whitman in 40 words
+AUTHOR,Charlotte Brontë,Rewrite this text but do it using the writing style of Charlotte Brontë,Describe the writing style of Charlotte Brontë in 40 words
+AUTHOR,James Joyce,Rewrite this text but do it using the writing style of James Joyce,Describe the writing style of James Joyce in 40 words
+AUTHOR,Edith Wharton,Rewrite this text but do it using the writing style of Edith Wharton,Describe the writing style of Edith Wharton in 40 words
+AUTHOR,Henrik Ibsen,Rewrite this text but do it using the writing style of Henrik Ibsen,Describe the writing style of Henrik Ibsen in 40 words
+AUTHOR,Joseph Conrad,Rewrite this text but do it using the writing style of Joseph Conrad,Describe the writing style of Joseph Conrad in 40 words
+AUTHOR,Langston Hughes,Rewrite this text but do it using the writing style of Langston Hughes,Describe the writing style of Langston Hughes in 40 words
+AUTHOR,Robert Frost,Rewrite this text but do it using the writing style of Robert Frost,Describe the writing style of Robert Frost in 40 words
+AUTHOR,Harper Lee,Rewrite this text but do it using the writing style of Harper Lee,Describe the writing style of Harper Lee in 40 words
+AUTHOR,Anton Chekhov,Rewrite this text but do it using the writing style of Anton Chekhov,Describe the writing style of Anton Chekhov in 40 words
+AUTHOR,Maya Angelou,Rewrite this text but do it using the writing style of Maya Angelou,Describe the writing style of Maya Angelou in 40 words
+AUTHOR,Herman Melville,Rewrite this text but do it using the writing style of Herman Melville,Describe the writing style of Herman Melville in 40 words
+AUTHOR,George Bernard Shaw,Rewrite this text but do it using the writing style of George Bernard Shaw,Describe the writing style of George Bernard Shaw in 40 words
+AUTHOR,Thomas Hardy,Rewrite this text but do it using the writing style of Thomas Hardy,Describe the writing style of Thomas Hardy in 40 words
+AUTHOR,Louisa May Alcott,Rewrite this text but do it using the writing style of Louisa May Alcott,Describe the writing style of Louisa May Alcott in 40 words
+AUTHOR,Edgar Allan Poe,Rewrite this text but do it using the writing style of Edgar Allan Poe,Describe the writing style of Edgar Allan Poe in 40 words
+AUTHOR,Sylvia Plath,Rewrite this text but do it using the writing style of Sylvia Plath,Describe the writing style of Sylvia Plath in 40 words
+AUTHOR,T.S. Eliot,Rewrite this text but do it using the writing style of T.S. Eliot,Describe the writing style of T.S. Eliot in 40 words
+AUTHOR,Aldous Huxley,Rewrite this text but do it using the writing style of Aldous Huxley,Describe the writing style of Aldous Huxley in 40 words
+AUTHOR,Virginia Woolf,Rewrite this text but do it using the writing style of Virginia Woolf,Describe the writing style of Virginia Woolf in 40 words
+AUTHOR,Beatrix Potter,Rewrite this text but do it using the writing style of Beatrix Potter,Describe the writing style of Beatrix Potter in 40 words
+AUTHOR,William Faulkner,Rewrite this text but do it using the writing style of William Faulkner,Describe the writing style of William Faulkner in 40 words
+AUTHOR,Johann Wolfgang von Goethe,Rewrite this text but do it using the writing style of Johann Wolfgang von Goethe,Describe the writing style of Johann Wolfgang von Goethe in 40 words
+AUTHOR,Pablo Picasso,Rewrite this text but do it using the writing style of Pablo Picasso,Describe the writing style of Pablo Picasso in 40 words
+AUTHOR,Roald Dahl,Rewrite this text but do it using the writing style of Roald Dahl,Describe the writing style of Roald Dahl in 40 words
+AUTHOR,C.S. Lewis,Rewrite this text but do it using the writing style of C.S. Lewis,Describe the writing style of C.S. Lewis in 40 words
+AUTHOR,Charles Baudelaire,Rewrite this text but do it using the writing style of Charles Baudelaire,Describe the writing style of Charles Baudelaire in 40 words
+AUTHOR,Mary Shelley,Rewrite this text but do it using the writing style of Mary Shelley,Describe the writing style of Mary Shelley in 40 words
+AUTHOR,Gabriel García Márquez,Rewrite this text but do it using the writing style of Gabriel García Márquez,Describe the writing style of Gabriel García Márquez in 40 words
+AUTHOR,Franz Kafka,Rewrite this text but do it using the writing style of Franz Kafka,Describe the writing style of Franz Kafka in 40 words
+AUTHOR,John Milton,Rewrite this text but do it using the writing style of John Milton,Describe the writing style of John Milton in 40 words
+AUTHOR,Lewis Carroll,Rewrite this text but do it using the writing style of Lewis Carroll,Describe the writing style of Lewis Carroll in 40 words
+AUTHOR,Gabriel Fauré,Rewrite this text but do it using the writing style of Gabriel Fauré,Describe the writing style of Gabriel Fauré in 40 words
+AUTHOR,Claude Debussy,Rewrite this text but do it using the writing style of Claude Debussy,Describe the writing style of Claude Debussy in 40 words
+AUTHOR,William Blake,Rewrite this text but do it using the writing style of William Blake,Describe the writing style of William Blake in 40 words
+AUTHOR,Emily Carr,Rewrite this text but do it using the writing style of Emily Carr,Describe the writing style of Emily Carr in 40 words
+AUTHOR,Margaret Atwood,Rewrite this text but do it using the writing style of Margaret Atwood,Describe the writing style of Margaret Atwood in 40 words
+AUTHOR,Stephen King,Rewrite this text but do it using the writing style of Stephen King,Describe the writing style of Stephen King in 40 words
+AUTHOR,Gabriel Faure,Rewrite this text but do it using the writing style of Gabriel Faure,Describe the writing style of Gabriel Faure in 40 words
+AUTHOR,Aaron Copland,Rewrite this text but do it using the writing style of Aaron Copland,Describe the writing style of Aaron Copland in 40 words
+AUTHOR,Ralph Vaughan Williams,Rewrite this text but do it using the writing style of Ralph Vaughan Williams,Describe the writing style of Ralph Vaughan Williams in 40 words
+AUTHOR,Benjamin Britten,Rewrite this text but do it using the writing style of Benjamin Britten,Describe the writing style of Benjamin Britten in 40 words
+AUTHOR,Gustav Holst,Rewrite this text but do it using the writing style of Gustav Holst,Describe the writing style of Gustav Holst in 40 words
+AUTHOR,John Cage,Rewrite this text but do it using the writing style of John Cage,Describe the writing style of John Cage in 40 words
+AUTHOR,Leonard Bernstein,Rewrite this text but do it using the writing style of Leonard Bernstein,Describe the writing style of Leonard Bernstein in 40 words
+AUTHOR,Igor Stravinsky,Rewrite this text but do it using the writing style of Igor Stravinsky,Describe the writing style of Igor Stravinsky in 40 words
+AUTHOR,Pyotr Ilyich Tchaikovsky,Rewrite this text but do it using the writing style of Pyotr Ilyich Tchaikovsky,Describe the writing style of Pyotr Ilyich Tchaikovsky in 40 words
+AUTHOR,Sergei Rachmaninoff,Rewrite this text but do it using the writing style of Sergei Rachmaninoff,Describe the writing style of Sergei Rachmaninoff in 40 words
+AUTHOR,Gustav Mahler,Rewrite this text but do it using the writing style of Gustav Mahler,Describe the writing style of Gustav Mahler in 40 words
+AUTHOR,Johannes Brahms,Rewrite this text but do it using the writing style of Johannes Brahms,Describe the writing style of Johannes Brahms in 40 words
+AUTHOR,Richard Wagner,Rewrite this text but do it using the writing style of Richard Wagner,Describe the writing style of Richard Wagner in 40 words
+AUTHOR,Giuseppe Verdi,Rewrite this text but do it using the writing style of Giuseppe Verdi,Describe the writing style of Giuseppe Verdi in 40 words
+AUTHOR,Johann Strauss II,Rewrite this text but do it using the writing style of Johann Strauss II,Describe the writing style of Johann Strauss II in 40 words
+AUTHOR,Frédéric Chopin,Rewrite this text but do it using the writing style of Frédéric Chopin,Describe the writing style of Frédéric Chopin in 40 words
+AUTHOR,Franz Liszt,Rewrite this text but do it using the writing style of Franz Liszt,Describe the writing style of Franz Liszt in 40 words
+AUTHOR,Wolfgang Amadeus Mozart,Rewrite this text but do it using the writing style of Wolfgang Amadeus Mozart,Describe the writing style of Wolfgang Amadeus Mozart in 40 words
+AUTHOR,Ludwig van Beethoven,Rewrite this text but do it using the writing style of Ludwig van Beethoven,Describe the writing style of Ludwig van Beethoven in 40 words
+AUTHOR,Johann Sebastian Bach,Rewrite this text but do it using the writing style of Johann Sebastian Bach,Describe the writing style of Johann Sebastian Bach in 40 words
+AUTHOR,William Shakespeare,Rewrite this text but do it using the writing style of William Shakespeare,Describe the writing style of William Shakespeare in 40 words
+AUTHOR,Henrik Ibsen,Rewrite this text but do it using the writing style of Henrik Ibsen,Describe the writing style of Henrik Ibsen in 40 words
+AUTHOR,Anton Chekhov,Rewrite this text but do it using the writing style of Anton Chekhov,Describe the writing style of Anton Chekhov in 40 words
+AUTHOR,George Bernard Shaw,Rewrite this text but do it using the writing style of George Bernard Shaw,Describe the writing style of George Bernard Shaw in 40 words
+AUTHOR,Arthur Miller,Rewrite this text but do it using the writing style of Arthur Miller,Describe the writing style of Arthur Miller in 40 words
+AUTHOR,Tennessee Williams,Rewrite this text but do it using the writing style of Tennessee Williams,Describe the writing style of Tennessee Williams in 40 words
+AUTHOR,Samuel Beckett,Rewrite this text but do it using the writing style of Samuel Beckett,Describe the writing style of Samuel Beckett in 40 words
+AUTHOR,August Wilson,Rewrite this text but do it using the writing style of August Wilson,Describe the writing style of August Wilson in 40 words
+AUTHOR,Lorraine Hansberry,Rewrite this text but do it using the writing style of Lorraine Hansberry,Describe the writing style of Lorraine Hansberry in 40 words
+AUTHOR,Tom Stoppard,Rewrite this text but do it using the writing style of Tom Stoppard,Describe the writing style of Tom Stoppard in 40 words
+AUTHOR,Edward Albee,Rewrite this text but do it using the writing style of Edward Albee,Describe the writing style of Edward Albee in 40 words
+AUTHOR,Neil Simon,Rewrite this text but do it using the writing style of Neil Simon,Describe the writing style of Neil Simon in 40 words
+AUTHOR,Bertolt Brecht,Rewrite this text but do it using the writing style of Bertolt Brecht,Describe the writing style of Bertolt Brecht in 40 words
+AUTHOR,Eugene O'Neill,Rewrite this text but do it using the writing style of Eugene O'Neill,Describe the writing style of Eugene O'Neill in 40 words
+AUTHOR,Noel Coward,Rewrite this text but do it using the writing style of Noel Coward,Describe the writing style of Noel Coward in 40 words
+AUTHOR,Harold Pinter,Rewrite this text but do it using the writing style of Harold Pinter,Describe the writing style of Harold Pinter in 40 words
+AUTHOR,Oscar Wilde,Rewrite this text but do it using the writing style of Oscar Wilde,Describe the writing style of Oscar Wilde in 40 words
+AUTHOR,David Mamet,Rewrite this text but do it using the writing style of David Mamet,Describe the writing style of David Mamet in 40 words
+AUTHOR,John Steinbeck,Rewrite this text but do it using the writing style of John Steinbeck,Describe the writing style of John Steinbeck in 40 words
+AUTHOR,Virginia Woolf,Rewrite this text but do it using the writing style of Virginia Woolf,Describe the writing style of Virginia Woolf in 40 words
+AUTHOR,J.K. Rowling,Rewrite this text but do it using the writing style of J.K. Rowling,Describe the writing style of J.K. Rowling in 40 words
+AUTHOR,George Orwell,Rewrite this text but do it using the writing style of George Orwell,Describe the writing style of George Orwell in 40 words
+AUTHOR,Ernest Hemingway,Rewrite this text but do it using the writing style of Ernest Hemingway,Describe the writing style of Ernest Hemingway in 40 words
+AUTHOR,F. Scott Fitzgerald,Rewrite this text but do it using the writing style of F. Scott Fitzgerald,Describe the writing style of F. Scott Fitzgerald in 40 words
+AUTHOR,Toni Morrison,Rewrite this text but do it using the writing style of Toni Morrison,Describe the writing style of Toni Morrison in 40 words
+AUTHOR,James Joyce,Rewrite this text but do it using the writing style of James Joyce,Describe the writing style of James Joyce in 40 words
+AUTHOR,Harper Lee,Rewrite this text but do it using the writing style of Harper Lee,Describe the writing style of Harper Lee in 40 words
+AUTHOR,Joseph Heller,Rewrite this text but do it using the writing style of Joseph Heller,Describe the writing style of Joseph Heller in 40 words
+AUTHOR,Kurt Vonnegut,Rewrite this text but do it using the writing style of Kurt Vonnegut,Describe the writing style of Kurt Vonnegut in 40 words
+AUTHOR,Salman Rushdie,Rewrite this text but do it using the writing style of Salman Rushdie,Describe the writing style of Salman Rushdie in 40 words
+AUTHOR,Kazuo Ishiguro,Rewrite this text but do it using the writing style of Kazuo Ishiguro,Describe the writing style of Kazuo Ishiguro in 40 words
+AUTHOR,Don DeLillo,Rewrite this text but do it using the writing style of Don DeLillo,Describe the writing style of Don DeLillo in 40 words
+AUTHOR,Philip Roth,Rewrite this text but do it using the writing style of Philip Roth,Describe the writing style of Philip Roth in 40 words
+AUTHOR,Alice Munro,Rewrite this text but do it using the writing style of Alice Munro,Describe the writing style of Alice Munro in 40 words
+AUTHOR,Cormac McCarthy,Rewrite this text but do it using the writing style of Cormac McCarthy,Describe the writing style of Cormac McCarthy in 40 words
+AUTHOR,Thomas Pynchon,Rewrite this text but do it using the writing style of Thomas Pynchon,Describe the writing style of Thomas Pynchon in 40 words
+AUTHOR,Margaret Atwood,Rewrite this text but do it using the writing style of Margaret Atwood,Describe the writing style of Margaret Atwood in 40 words
+AUTHOR,Doris Lessing,Rewrite this text but do it using the writing style of Doris Lessing,Describe the writing style of Doris Lessing in 40 words
+AUTHOR,Milan Kundera,Rewrite this text but do it using the writing style of Milan Kundera,Describe the writing style of Milan Kundera in 40 words
+AUTHOR,Gabriel García Márquez,Rewrite this text but do it using the writing style of Gabriel García Márquez,Describe the writing style of Gabriel García Márquez in 40 words
+AUTHOR,Chinua Achebe,Rewrite this text but do it using the writing style of Chinua Achebe,Describe the writing style of Chinua Achebe in 40 words
+AUTHOR,Salman Rushdie,Rewrite this text but do it using the writing style of Salman Rushdie,Describe the writing style of Salman Rushdie in 40 words
+AUTHOR,Haruki Murakami,Rewrite this text but do it using the writing style of Haruki Murakami,Describe the writing style of Haruki Murakami in 40 words
+AUTHOR,Gabriel Garcia Marquez,Rewrite this text but do it using the writing style of Gabriel Garcia Marquez,Describe the writing style of Gabriel Garcia Marquez in 40 words
+AUTHOR,Orhan Pamuk,Rewrite this text but do it using the writing style of Orhan Pamuk,Describe the writing style of Orhan Pamuk in 40 words
+AUTHOR,Wole Soyinka,Rewrite this text but do it using the writing style of Wole Soyinka,Describe the writing style of Wole Soyinka in 40 words
+AUTHOR,Arundhati Roy,Rewrite this text but do it using the writing style of Arundhati Roy,Describe the writing style of Arundhati Roy in 40 words
+AUTHOR,Chimamanda Ngozi Adichie,Rewrite this text but do it using the writing style of Chimamanda Ngozi Adichie,Describe the writing style of Chimamanda Ngozi Adichie in 40 words
+AUTHOR,Ngugi wa Thiong'o,Rewrite this text but do it using the writing style of Ngugi wa Thiong'o,Describe the writing style of Ngugi wa Thiong'o in 40 words
+AUTHOR,Derek Walcott,Rewrite this text but do it using the writing style of Derek Walcott,Describe the writing style of Derek Walcott in 40 words
+AUTHOR,Seamus Heaney,Rewrite this text but do it using the writing style of Seamus Heaney,Describe the writing style of Seamus Heaney in 40 words
+AUTHOR,Pablo Neruda,Rewrite this text but do it using the writing style of Pablo Neruda,Describe the writing style of Pablo Neruda in 40 words
+AUTHOR,Ted Hughes,Rewrite this text but do it using the writing style of Ted Hughes,Describe the writing style of Ted Hughes in 40 words
+AUTHOR,Anne Sexton,Rewrite this text but do it using the writing style of Anne Sexton,Describe the writing style of Anne Sexton in 40 words
+AUTHOR,Allen Ginsberg,Rewrite this text but do it using the writing style of Allen Ginsberg,Describe the writing style of Allen Ginsberg in 40 words
+AUTHOR,Derek Walcott,Rewrite this text but do it using the writing style of Derek Walcott,Describe the writing style of Derek Walcott in 40 words
+AUTHOR,Seamus Heaney,Rewrite this text but do it using the writing style of Seamus Heaney,Describe the writing style of Seamus Heaney in 40 words
+AUTHOR,Pablo Neruda,Rewrite this text but do it using the writing style of Pablo Neruda,Describe the writing style of Pablo Neruda in 40 words
+AUTHOR,Ted Hughes,Rewrite this text but do it using the writing style of Ted Hughes,Describe the writing style of Ted Hughes in 40 words
+AUTHOR,Anne Sexton,Rewrite this text but do it using the writing style of Anne Sexton,Describe the writing style of Anne Sexton in 40 words
+AUTHOR,Allen Ginsberg,Rewrite this text but do it using the writing style of Allen Ginsberg,Describe the writing style of Allen Ginsberg in 40 words
+AUTHOR,Robert Frost,Rewrite this text but do it using the writing style of Robert Frost,Describe the writing style of Robert Frost in 40 words
+AUTHOR,Langston Hughes,Rewrite this text but do it using the writing style of Langston Hughes,Describe the writing style of Langston Hughes in 40 words
+AUTHOR,T.S. Eliot,Rewrite this text but do it using the writing style of T.S. Eliot,Describe the writing style of T.S. Eliot in 40 words
+AUTHOR,W.H. Auden,Rewrite this text but do it using the writing style of W.H. Auden,Describe the writing style of W.H. Auden in 40 words
+AUTHOR,Sylvia Plath,Rewrite this text but do it using the writing style of Sylvia Plath,Describe the writing style of Sylvia Plath in 40 words
+AUTHOR,Maya Angelou,Rewrite this text but do it using the writing style of Maya Angelou,Describe the writing style of Maya Angelou in 40 words
+AUTHOR,Emily Dickinson,Rewrite this text but do it using the writing style of Emily Dickinson,Describe the writing style of Emily Dickinson in 40 words
+AUTHOR,Elizabeth Barrett Browning,Rewrite this text but do it using the writing style of Elizabeth Barrett Browning,Describe the writing style of Elizabeth Barrett Browning in 40 words
+AUTHOR,Walt Whitman,Rewrite this text but do it using the writing style of Walt Whitman,Describe the writing style of Walt Whitman in 40 words
+AUTHOR,John Donne,Rewrite this text but do it using the writing style of John Donne,Describe the writing style of John Donne in 40 words
+AUTHOR,William Butler Yeats,Rewrite this text but do it using the writing style of William Butler Yeats,Describe the writing style of William Butler Yeats in 40 words
+AUTHOR,Alexander Pope,Rewrite this text but do it using the writing style of Alexander Pope,Describe the writing style of Alexander Pope in 40 words
+AUTHOR,Samuel Taylor Coleridge,Rewrite this text but do it using the writing style of Samuel Taylor Coleridge,Describe the writing style of Samuel Taylor Coleridge in 40 words
+AUTHOR,William Wordsworth,Rewrite this text but do it using the writing style of William Wordsworth,Describe the writing style of William Wordsworth in 40 words
+AUTHOR,Geoffrey Chaucer,Rewrite this text but do it using the writing style of Geoffrey Chaucer,Describe the writing style of Geoffrey Chaucer in 40 words
+AUTHOR,John Keats,Rewrite this text but do it using the writing style of John Keats,Describe the writing style of John Keats in 40 words
+AUTHOR,Percy Bysshe Shelley,Rewrite this text but do it using the writing style of Percy Bysshe Shelley,Describe the writing style of Percy Bysshe Shelley in 40 words
+AUTHOR,William Blake,Rewrite this text but do it using the writing style of William Blake,Describe the writing style of William Blake in 40 words
+AUTHOR,William Shakespeare,Rewrite this text but do it using the writing style of William Shakespeare,Describe the writing style of William Shakespeare in 40 words
+AUTHOR,Christopher Marlowe,Rewrite this text but do it using the writing style of Christopher Marlowe,Describe the writing style of Christopher Marlowe in 40 words
+AUTHOR,John Milton,Rewrite this text but do it using the writing style of John Milton,Describe the writing style of John Milton in 40 words
+AUTHOR,Edmund Spenser,Rewrite this text but do it using the writing style of Edmund Spenser,Describe the writing style of Edmund Spenser in 40 words
+AUTHOR,Ben Jonson,Rewrite this text but do it using the writing style of Ben Jonson,Describe the writing style of Ben Jonson in 40 words
+AUTHOR,Andrew Marvell,Rewrite this text but do it using the writing style of Andrew Marvell,Describe the writing style of Andrew Marvell in 40 words
+AUTHOR,William Shakespeare,Rewrite this text but do it using the writing style of William Shakespeare,Describe the writing style of William Shakespeare in 40 words
+AUTHOR,Geoffrey Chaucer,Rewrite this text but do it using the writing style of Geoffrey Chaucer,Describe the writing style of Geoffrey Chaucer in 40 words
+AUTHOR,John Donne,Rewrite this text but do it using the writing style of John Donne,Describe the writing style of John Donne in 40 words
+AUTHOR,Alexander Pope,Rewrite this text but do it using the writing style of Alexander Pope,Describe the writing style of Alexander Pope in 40 words
+AUTHOR,Samuel Taylor Coleridge,Rewrite this text but do it using the writing style of Samuel Taylor Coleridge,Describe the writing style of Samuel Taylor Coleridge in 40 words
+AUTHOR,William Wordsworth,Rewrite this text but do it using the writing style of William Wordsworth,Describe the writing style of William Wordsworth in 40 words
+AUTHOR,Percy Bysshe Shelley,Rewrite this text but do it using the writing style of Percy Bysshe Shelley,Describe the writing style of Percy Bysshe Shelley in 40 words
+AUTHOR,William Blake,Rewrite this text but do it using the writing style of William Blake,Describe the writing style of William Blake in 40 words
+AUTHOR,Christopher Marlowe,Rewrite this text but do it using the writing style of Christopher Marlowe,Describe the writing style of Christopher Marlowe in 40 words
+AUTHOR,John Milton,Rewrite this text but do it using the writing style of John Milton,Describe the writing style of John Milton in 40 words
+AUTHOR,Edmund Spenser,Rewrite this text but do it using the writing style of Edmund Spenser,Describe the writing style of Edmund Spenser in 40 words
+AUTHOR,Ben Jonson,Rewrite this text but do it using the writing style of Ben Jonson,Describe the writing style of Ben Jonson in 40 words
+AUTHOR,Andrew Marvell,Rewrite this text but do it using the writing style of Andrew Marvell,Describe the writing style of Andrew Marvell in 40 words
+AUTHOR,Geoffrey Chaucer,Rewrite this text but do it using the writing style of Geoffrey Chaucer,Describe the writing style of Geoffrey Chaucer in 40 words
+AUTHOR,John Donne,Rewrite this text but do it using the writing style of John Donne,Describe the writing style of John Donne in 40 words
+AUTHOR,Alexander Pope,Rewrite this text but do it using the writing style of Alexander Pope,Describe the writing style of Alexander Pope in 40 words
+AUTHOR,Samuel Taylor Coleridge,Rewrite this text but do it using the writing style of Samuel Taylor Coleridge,Describe the writing style of Samuel Taylor Coleridge in 40 words
+AUTHOR,William Wordsworth,Rewrite this text but do it using the writing style of William Wordsworth,Describe the writing style of William Wordsworth in 40 words
+AUTHOR,Percy Bysshe Shelley,Rewrite this text but do it using the writing style of Percy Bysshe Shelley,Describe the writing style of Percy Bysshe Shelley in 40 words
+AUTHOR,William Blake,Rewrite this text but do it using the writing style of William Blake,Describe the writing style of William Blake in 40 words
+AUTHOR,Christopher Marlowe,Rewrite this text but do it using the writing style of Christopher Marlowe,Describe the writing style of Christopher Marlowe in 40 words
+AUTHOR,John Milton,Rewrite this text but do it using the writing style of John Milton,Describe the writing style of John Milton in 40 words
+AUTHOR,Edmund Spenser,Rewrite this text but do it using the writing style of Edmund Spenser,Describe the writing style of Edmund Spenser in 40 words
+AUTHOR,Ben Jonson,Rewrite this text but do it using the writing style of Ben Jonson,Describe the writing style of Ben Jonson in 40 words
+AUTHOR,Andrew Marvell,Rewrite this text but do it using the writing style of Andrew Marvell,Describe the writing style of Andrew Marvell in 40 words
+AUTHOR,William Shakespeare,Rewrite this text but do it using the writing style of William Shakespeare,Describe the writing style of William Shakespeare in 40 words
+AUTHOR,Geoffrey Chaucer,Rewrite this text but do it using the writing style of Geoffrey Chaucer,Describe the writing style of Geoffrey Chaucer in 40 words
+AUTHOR,John Donne,Rewrite this text but do it using the writing style of John Donne,Describe the writing style of John Donne in 40 words
+AUTHOR,Alexander Pope,Rewrite this text but do it using the writing style of Alexander Pope,Describe the writing style of Alexander Pope in 40 words
+AUTHOR,Samuel Taylor Coleridge,Rewrite this text but do it using the writing style of Samuel Taylor Coleridge,Describe the writing style of Samuel Taylor Coleridge in 40 words
+AUTHOR,William Wordsworth,Rewrite this text but do it using the writing style of William Wordsworth,Describe the writing style of William Wordsworth in 40 words
+AUTHOR,Percy Bysshe Shelley,Rewrite this text but do it using the writing style of Percy Bysshe Shelley,Describe the writing style of Percy Bysshe Shelley in 40 words
+AUTHOR,William Blake,Rewrite this text but do it using the writing style of William Blake,Describe the writing style of William Blake in 40 words
+AUTHOR,Christopher Marlowe,Rewrite this text but do it using the writing style of Christopher Marlowe,Describe the writing style of Christopher Marlowe in 40 words
+AUTHOR,John Milton,Rewrite this text but do it using the writing style of John Milton,Describe the writing style of John Milton in 40 words
+BOOK,To Kill a Mockingbird,Rewrite this text but do it using the tone of To Kill a Mockingbird,"Describe the writing style of the book ""To Kill a Mockingbird"" in 40 words"
+BOOK,1984,Rewrite this text but do it using the tone of 1984,"Describe the writing style of the book ""1984"" in 40 words"
+BOOK,Pride and Prejudice,Rewrite this text but do it using the tone of Pride and Prejudice,"Describe the writing style of the book ""Pride and Prejudice"" in 40 words"
+BOOK,The Great Gats,Rewrite this text but do it using the tone of The Great Gats,"Describe the writing style of the book ""The Great Gats"" in 40 words"
+BOOK,The Catcher in the Rye,Rewrite this text but do it using the tone of The Catcher in the Rye,"Describe the writing style of the book ""The Catcher in the Rye"" in 40 words"
+BOOK,The Lord of the Rings trilogy,Rewrite this text but do it using the tone of The Lord of the Rings trilogy,"Describe the writing style of the book ""The Lord of the Rings trilogy"" in 40 words"
+BOOK,Harry Potter series,Rewrite this text but do it using the tone of Harry Potter series,"Describe the writing style of the book ""Harry Potter series"" in 40 words"
+BOOK,The Chronicles of Narnia series,Rewrite this text but do it using the tone of The Chronicles of Narnia series,"Describe the writing style of the book ""The Chronicles of Narnia series"" in 40 words"
+BOOK,Animal Farm,Rewrite this text but do it using the tone of Animal Farm,"Describe the writing style of the book ""Animal Farm"" in 40 words"
+BOOK,The Hobbit,Rewrite this text but do it using the tone of The Hobbit,"Describe the writing style of the book ""The Hobbit"" in 40 words"
+BOOK,Alice's Adventures in Wonderland,Rewrite this text but do it using the tone of Alice's Adventures in Wonderland,"Describe the writing style of the book ""Alice's Adventures in Wonderland"" in 40 words"
+BOOK,Brave New World,Rewrite this text but do it using the tone of Brave New World,"Describe the writing style of the book ""Brave New World"" in 40 words"
+BOOK,Wuthering Heights,Rewrite this text but do it using the tone of Wuthering Heights,"Describe the writing style of the book ""Wuthering Heights"" in 40 words"
+BOOK,Jane Eyre,Rewrite this text but do it using the tone of Jane Eyre,"Describe the writing style of the book ""Jane Eyre"" in 40 words"
+BOOK,Mo,Rewrite this text but do it using the tone of Mo,"Describe the writing style of the book ""Mo"" in 40 words"
+BOOK,The Adventures of Huckleberry Finn,Rewrite this text but do it using the tone of The Adventures of Huckleberry Finn,"Describe the writing style of the book ""The Adventures of Huckleberry Finn"" in 40 words"
+BOOK,A Tale of Two Cities,Rewrite this text but do it using the tone of A Tale of Two Cities,"Describe the writing style of the book ""A Tale of Two Cities"" in 40 words"
+BOOK,Frankenstein,Rewrite this text but do it using the tone of Frankenstein,"Describe the writing style of the book ""Frankenstein"" in 40 words"
+BOOK,The Picture of Dorian Gray,Rewrite this text but do it using the tone of The Picture of Dorian Gray,"Describe the writing style of the book ""The Picture of Dorian Gray"" in 40 words"
+BOOK,War and Peace,Rewrite this text but do it using the tone of War and Peace,"Describe the writing style of the book ""War and Peace"" in 40 words"
+BOOK,The Odyssey,Rewrite this text but do it using the tone of The Odyssey,"Describe the writing style of the book ""The Odyssey"" in 40 words"
+BOOK,The Iliad,Rewrite this text but do it using the tone of The Iliad,"Describe the writing style of the book ""The Iliad"" in 40 words"
+BOOK,Gulliver's Travels,Rewrite this text but do it using the tone of Gulliver's Travels,"Describe the writing style of the book ""Gulliver's Travels"" in 40 words"
+BOOK,Little Women,Rewrite this text but do it using the tone of Little Women,"Describe the writing style of the book ""Little Women"" in 40 words"
+BOOK,The Canterbury Tales,Rewrite this text but do it using the tone of The Canterbury Tales,"Describe the writing style of the book ""The Canterbury Tales"" in 40 words"
+BOOK,One Hundred Years of Solitude,Rewrite this text but do it using the tone of One Hundred Years of Solitude,"Describe the writing style of the book ""One Hundred Years of Solitude"" in 40 words"
+BOOK,Catch-22,Rewrite this text but do it using the tone of Catch-22,"Describe the writing style of the book ""Catch-22"" in 40 words"
+BOOK,The Grapes of Wrath,Rewrite this text but do it using the tone of The Grapes of Wrath,"Describe the writing style of the book ""The Grapes of Wrath"" in 40 words"
+BOOK,The Hitchhiker's Guide to the Galaxy,Rewrite this text but do it using the tone of The Hitchhiker's Guide to the Galaxy,"Describe the writing style of the book ""The Hitchhiker's Guide to the Galaxy"" in 40 words"
+BOOK,The Bell Jar,Rewrite this text but do it using the tone of The Bell Jar,"Describe the writing style of the book ""The Bell Jar"" in 40 words"
+BOOK,Dracula,Rewrite this text but do it using the tone of Dracula,"Describe the writing style of the book ""Dracula"" in 40 words"
+BOOK,The Count of Monte Cristo,Rewrite this text but do it using the tone of The Count of Monte Cristo,"Describe the writing style of the book ""The Count of Monte Cristo"" in 40 words"
+BOOK,Great Expectations,Rewrite this text but do it using the tone of Great Expectations,"Describe the writing style of the book ""Great Expectations"" in 40 words"
+BOOK,The Scarlet Letter,Rewrite this text but do it using the tone of The Scarlet Letter,"Describe the writing style of the book ""The Scarlet Letter"" in 40 words"
+BOOK,Lord of the Flies,Rewrite this text but do it using the tone of Lord of the Flies,"Describe the writing style of the book ""Lord of the Flies"" in 40 words"
+BOOK,Don Quixote,Rewrite this text but do it using the tone of Don Quixote,"Describe the writing style of the book ""Don Quixote"" in 40 words"
+BOOK,The Secret Garden,Rewrite this text but do it using the tone of The Secret Garden,"Describe the writing style of the book ""The Secret Garden"" in 40 words"
+BOOK,The Alchemist,Rewrite this text but do it using the tone of The Alchemist,"Describe the writing style of the book ""The Alchemist"" in 40 words"
+BOOK,Anna Karenina,Rewrite this text but do it using the tone of Anna Karenina,"Describe the writing style of the book ""Anna Karenina"" in 40 words"
+BOOK,A Clockwork Orange,Rewrite this text but do it using the tone of A Clockwork Orange,"Describe the writing style of the book ""A Clockwork Orange"" in 40 words"
+BOOK,The Kite Runner,Rewrite this text but do it using the tone of The Kite Runner,"Describe the writing style of the book ""The Kite Runner"" in 40 words"
+BOOK,The Color Purple,Rewrite this text but do it using the tone of The Color Purple,"Describe the writing style of the book ""The Color Purple"" in 40 words"
+BOOK,The Importance of Being Earnest,Rewrite this text but do it using the tone of The Importance of Being Earnest,"Describe the writing style of the book ""The Importance of Being Earnest"" in 40 words"
+BOOK,The Road,Rewrite this text but do it using the tone of The Road,"Describe the writing style of the book ""The Road"" in 40 words"
+BOOK,Sense and Sensibility,Rewrite this text but do it using the tone of Sense and Sensibility,"Describe the writing style of the book ""Sense and Sensibility"" in 40 words"
+BOOK,Les Misérables,Rewrite this text but do it using the tone of Les Misérables,"Describe the writing style of the book ""Les Misérables"" in 40 words"
+BOOK,Slaughterhouse-Five,Rewrite this text but do it using the tone of Slaughterhouse-Five,"Describe the writing style of the book ""Slaughterhouse-Five"" in 40 words"
+BOOK,The Sun Also Rises,Rewrite this text but do it using the tone of The Sun Also Rises,"Describe the writing style of the book ""The Sun Also Rises"" in 40 words"
+BOOK,Crime and Punishment,Rewrite this text but do it using the tone of Crime and Punishment,"Describe the writing style of the book ""Crime and Punishment"" in 40 words"
+BOOK,The Wind in the Willows,Rewrite this text but do it using the tone of The Wind in the Willows,"Describe the writing style of the book ""The Wind in the Willows"" in 40 words"
+BOOK,A Christmas Carol,Rewrite this text but do it using the tone of A Christmas Carol,"Describe the writing style of the book ""A Christmas Carol"" in 40 words"
+BOOK,The Divine Comedy,Rewrite this text but do it using the tone of The Divine Comedy,"Describe the writing style of the book ""The Divine Comedy"" in 40 words"
+BOOK,The Adventures of Sherlock Holmes,Rewrite this text but do it using the tone of The Adventures of Sherlock Holmes,"Describe the writing style of the book ""The Adventures of Sherlock Holmes"" in 40 words"
+BOOK,The Jungle Book,Rewrite this text but do it using the tone of The Jungle Book,"Describe the writing style of the book ""The Jungle Book"" in 40 words"
+BOOK,Gone with the Wind,Rewrite this text but do it using the tone of Gone with the Wind,"Describe the writing style of the book ""Gone with the Wind"" in 40 words"
+BOOK,The Handmaid's Tale,Rewrite this text but do it using the tone of The Handmaid's Tale,"Describe the writing style of the book ""The Handmaid's Tale"" in 40 words"
+BOOK,The Martian Chronicles,Rewrite this text but do it using the tone of The Martian Chronicles,"Describe the writing style of the book ""The Martian Chronicles"" in 40 words"
+BOOK,The Shining,Rewrite this text but do it using the tone of The Shining,"Describe the writing style of the book ""The Shining"" in 40 words"
+BOOK,The Old Man and the Sea,Rewrite this text but do it using the tone of The Old Man and the Sea,"Describe the writing style of the book ""The Old Man and the Sea"" in 40 words"
+BOOK,The War of the Worlds,Rewrite this text but do it using the tone of The War of the Worlds,"Describe the writing style of the book ""The War of the Worlds"" in 40 words"
+BOOK,A Wrinkle in Time,Rewrite this text but do it using the tone of A Wrinkle in Time,"Describe the writing style of the book ""A Wrinkle in Time"" in 40 words"
+BOOK,Anne of Green Gables,Rewrite this text but do it using the tone of Anne of Green Gables,"Describe the writing style of the book ""Anne of Green Gables"" in 40 words"
+BOOK,The Princess Bride,Rewrite this text but do it using the tone of The Princess Bride,"Describe the writing style of the book ""The Princess Bride"" in 40 words"
+BOOK,The Hunger Games,Rewrite this text but do it using the tone of The Hunger Games,"Describe the writing style of the book ""The Hunger Games"" in 40 words"
+BOOK,Charlotte's Web,Rewrite this text but do it using the tone of Charlotte's Web,"Describe the writing style of the book ""Charlotte's Web"" in 40 words"
+BOOK,The Joy Luck Club,Rewrite this text but do it using the tone of The Joy Luck Club,"Describe the writing style of the book ""The Joy Luck Club"" in 40 words"
+BOOK,The Secret Life of Bees,Rewrite this text but do it using the tone of The Secret Life of Bees,"Describe the writing style of the book ""The Secret Life of Bees"" in 40 words"
+BOOK,The Outsiders,Rewrite this text but do it using the tone of The Outsiders,"Describe the writing style of the book ""The Outsiders"" in 40 words"
+BOOK,The Lord of the Flies,Rewrite this text but do it using the tone of The Lord of the Flies,"Describe the writing style of the book ""The Lord of the Flies"" in 40 words"
+BOOK,The Fault in Our Stars,Rewrite this text but do it using the tone of The Fault in Our Stars,"Describe the writing style of the book ""The Fault in Our Stars"" in 40 words"
+BOOK,The Road Less Traveled,Rewrite this text but do it using the tone of The Road Less Traveled,"Describe the writing style of the book ""The Road Less Traveled"" in 40 words"
+BOOK,The Power of Now,Rewrite this text but do it using the tone of The Power of Now,"Describe the writing style of the book ""The Power of Now"" in 40 words"
+BOOK,Fahrenheit 451,Rewrite this text but do it using the tone of Fahrenheit 451,"Describe the writing style of the book ""Fahrenheit 451"" in 40 words"
+BOOK,The Martian,Rewrite this text but do it using the tone of The Martian,"Describe the writing style of the book ""The Martian"" in 40 words"
+BOOK,The Hunger Games series,Rewrite this text but do it using the tone of The Hunger Games series,"Describe the writing style of the book ""The Hunger Games series"" in 40 words"
+BOOK,The Fault in Our Stars,Rewrite this text but do it using the tone of The Fault in Our Stars,"Describe the writing style of the book ""The Fault in Our Stars"" in 40 words"
+BOOK,The Da Vinci Code,Rewrite this text but do it using the tone of The Da Vinci Code,"Describe the writing style of the book ""The Da Vinci Code"" in 40 words"
+BOOK,The Help,Rewrite this text but do it using the tone of The Help,"Describe the writing style of the book ""The Help"" in 40 words"
+BOOK,A Thousand Splendid Suns,Rewrite this text but do it using the tone of A Thousand Splendid Suns,"Describe the writing style of the book ""A Thousand Splendid Suns"" in 40 words"
+BOOK,The Girl with the Dragon Tattoo,Rewrite this text but do it using the tone of The Girl with the Dragon Tattoo,"Describe the writing style of the book ""The Girl with the Dragon Tattoo"" in 40 words"
+BOOK,The Lovely Bones,Rewrite this text but do it using the tone of The Lovely Bones,"Describe the writing style of the book ""The Lovely Bones"" in 40 words"
+BOOK,The Time Traveler's Wife,Rewrite this text but do it using the tone of The Time Traveler's Wife,"Describe the writing style of the book ""The Time Traveler's Wife"" in 40 words"
+BOOK,The Notebook,Rewrite this text but do it using the tone of The Notebook,"Describe the writing style of the book ""The Notebook"" in 40 words"
+BOOK,Life of Pi,Rewrite this text but do it using the tone of Life of Pi,"Describe the writing style of the book ""Life of Pi"" in 40 words"
+BOOK,The Curious Incident of the Dog in the Night-Time,Rewrite this text but do it using the tone of The Curious Incident of the Dog in the Night-Time,"Describe the writing style of the book ""The Curious Incident of the Dog in the Night-Time"" in 40 words"
+BOOK,The Book Thief,Rewrite this text but do it using the tone of The Book Thief,"Describe the writing style of the book ""The Book Thief"" in 40 words"
+BOOK,The Road,Rewrite this text but do it using the tone of The Road,"Describe the writing style of the book ""The Road"" in 40 words"
+BOOK,The Secret,Rewrite this text but do it using the tone of The Secret,"Describe the writing style of the book ""The Secret"" in 40 words"
+BOOK,The Night Circus,Rewrite this text but do it using the tone of The Night Circus,"Describe the writing style of the book ""The Night Circus"" in 40 words"
+BOOK,The Goldfinch,Rewrite this text but do it using the tone of The Goldfinch,"Describe the writing style of the book ""The Goldfinch"" in 40 words"
+BOOK,The Fault in Our Stars,Rewrite this text but do it using the tone of The Fault in Our Stars,"Describe the writing style of the book ""The Fault in Our Stars"" in 40 words"
+BOOK,The Great Gats,Rewrite this text but do it using the tone of The Great Gats,"Describe the writing style of the book ""The Great Gats"" in 40 words"
+BOOK,The Handmaid's Tale,Rewrite this text but do it using the tone of The Handmaid's Tale,"Describe the writing style of the book ""The Handmaid's Tale"" in 40 words"
+BOOK,The Hobbit,Rewrite this text but do it using the tone of The Hobbit,"Describe the writing style of the book ""The Hobbit"" in 40 words"
+BOOK,The Hunger Games,Rewrite this text but do it using the tone of The Hunger Games,"Describe the writing style of the book ""The Hunger Games"" in 40 words"
+BOOK,The Kite Runner,Rewrite this text but do it using the tone of The Kite Runner,"Describe the writing style of the book ""The Kite Runner"" in 40 words"
+BOOK,"The Lion, the Witch and the Wardrobe","Rewrite this text but do it using the tone of The Lion, the Witch and the Wardrobe","Describe the writing style of the book ""The Lion, the Witch and the Wardrobe"" in 40 words"
+BOOK,The Lord of the Rings,Rewrite this text but do it using the tone of The Lord of the Rings,"Describe the writing style of the book ""The Lord of the Rings"" in 40 words"
+BOOK,The Secret Garden,Rewrite this text but do it using the tone of The Secret Garden,"Describe the writing style of the book ""The Secret Garden"" in 40 words"
+BOOK,The Time Traveler's Wife,Rewrite this text but do it using the tone of The Time Traveler's Wife,"Describe the writing style of the book ""The Time Traveler's Wife"" in 40 words"
+DOC,thesis,Rewrite this text as if it was a thesis document,"Describe what is the ""thesis"" document in 40 words"
+DOC,dissertation,Rewrite this text as if it was a dissertation document,"Describe what is the ""dissertation"" document in 40 words"
+DOC,research paper,Rewrite this text as if it was a research paper document,"Describe what is the ""research paper"" document in 40 words"
+DOC,business plan,Rewrite this text as if it was a business plan document,"Describe what is the ""business plan"" document in 40 words"
+DOC,financial analysis,Rewrite this text as if it was a financial analysis document,"Describe what is the ""financial analysis"" document in 40 words"
+DOC,executive summary,Rewrite this text as if it was a executive summary document,"Describe what is the ""executive summary"" document in 40 words"
+DOC,business proposal,Rewrite this text as if it was a business proposal document,"Describe what is the ""business proposal"" document in 40 words"
+DOC,marketing plan,Rewrite this text as if it was a marketing plan document,"Describe what is the ""marketing plan"" document in 40 words"
+DOC,strategic plan,Rewrite this text as if it was a strategic plan document,"Describe what is the ""strategic plan"" document in 40 words"
+DOC,annual report,Rewrite this text as if it was a annual report document,"Describe what is the ""annual report"" document in 40 words"
+DOC,case study,Rewrite this text as if it was a case study document,"Describe what is the ""case study"" document in 40 words"
+DOC,white paper,Rewrite this text as if it was a white paper document,"Describe what is the ""white paper"" document in 40 words"
+DOC,feasibility study,Rewrite this text as if it was a feasibility study document,"Describe what is the ""feasibility study"" document in 40 words"
+DOC,market research report,Rewrite this text as if it was a market research report document,"Describe what is the ""market research report"" document in 40 words"
+DOC,business model canvas,Rewrite this text as if it was a business model canvas document,"Describe what is the ""business model canvas"" document in 40 words"
+DOC,swot analysis,Rewrite this text as if it was a swot analysis document,"Describe what is the ""swot analysis"" document in 40 words"
+DOC,project proposal,Rewrite this text as if it was a project proposal document,"Describe what is the ""project proposal"" document in 40 words"
+DOC,pitch deck,Rewrite this text as if it was a pitch deck document,"Describe what is the ""pitch deck"" document in 40 words"
+DOC,sales forecast,Rewrite this text as if it was a sales forecast document,"Describe what is the ""sales forecast"" document in 40 words"
+DOC,product roadmap,Rewrite this text as if it was a product roadmap document,"Describe what is the ""product roadmap"" document in 40 words"
+DOC,competitive analysis,Rewrite this text as if it was a competitive analysis document,"Describe what is the ""competitive analysis"" document in 40 words"
+DOC,product specification document,Rewrite this text as if it was a product specification document document,"Describe what is the ""product specification document"" document in 40 words"
+DOC,risk assessment report,Rewrite this text as if it was a risk assessment report document,"Describe what is the ""risk assessment report"" document in 40 words"
+DOC,business requirement document,Rewrite this text as if it was a business requirement document document,"Describe what is the ""business requirement document"" document in 40 words"
+DOC,user manual,Rewrite this text as if it was a user manual document,"Describe what is the ""user manual"" document in 40 words"
+DOC,instruction manual,Rewrite this text as if it was a instruction manual document,"Describe what is the ""instruction manual"" document in 40 words"
+DOC,standard operating procedure (sop),Rewrite this text as if it was a standard operating procedure (sop) document,"Describe what is the ""standard operating procedure (sop)"" document in 40 words"
+DOC,corporate governance document,Rewrite this text as if it was a corporate governance document document,"Describe what is the ""corporate governance document"" document in 40 words"
+DOC,employee handbook,Rewrite this text as if it was a employee handbook document,"Describe what is the ""employee handbook"" document in 40 words"
+DOC,code of conduct,Rewrite this text as if it was a code of conduct document,"Describe what is the ""code of conduct"" document in 40 words"
+DOC,compliance report,Rewrite this text as if it was a compliance report document,"Describe what is the ""compliance report"" document in 40 words"
+DOC,policy brief,Rewrite this text as if it was a policy brief document,"Describe what is the ""policy brief"" document in 40 words"
+DOC,marketing strategy document,Rewrite this text as if it was a marketing strategy document document,"Describe what is the ""marketing strategy document"" document in 40 words"
+DOC,brand guidelines,Rewrite this text as if it was a brand guidelines document,"Describe what is the ""brand guidelines"" document in 40 words"
+DOC,crisis management plan,Rewrite this text as if it was a crisis management plan document,"Describe what is the ""crisis management plan"" document in 40 words"
+DOC,partnership agreement,Rewrite this text as if it was a partnership agreement document,"Describe what is the ""partnership agreement"" document in 40 words"
+DOC,non-disclosure agreement (nda),Rewrite this text as if it was a non-disclosure agreement (nda) document,"Describe what is the ""non-disclosure agreement (nda)"" document in 40 words"
+DOC,memorandum of understanding (mou),Rewrite this text as if it was a memorandum of understanding (mou) document,"Describe what is the ""memorandum of understanding (mou)"" document in 40 words"
+DOC,shareholder agreement,Rewrite this text as if it was a shareholder agreement document,"Describe what is the ""shareholder agreement"" document in 40 words"
+DOC,term sheet,Rewrite this text as if it was a term sheet document,"Describe what is the ""term sheet"" document in 40 words"
+DOC,employment contract,Rewrite this text as if it was a employment contract document,"Describe what is the ""employment contract"" document in 40 words"
+DOC,licensing agreement,Rewrite this text as if it was a licensing agreement document,"Describe what is the ""licensing agreement"" document in 40 words"
+DOC,lease agreement,Rewrite this text as if it was a lease agreement document,"Describe what is the ""lease agreement"" document in 40 words"
+DOC,invoice,Rewrite this text as if it was a invoice document,"Describe what is the ""invoice"" document in 40 words"
+DOC,purchase order,Rewrite this text as if it was a purchase order document,"Describe what is the ""purchase order"" document in 40 words"
+DOC,sales contract,Rewrite this text as if it was a sales contract document,"Describe what is the ""sales contract"" document in 40 words"
+DOC,service level agreement (sla),Rewrite this text as if it was a service level agreement (sla) document,"Describe what is the ""service level agreement (sla)"" document in 40 words"
+DOC,request for proposal (rfp),Rewrite this text as if it was a request for proposal (rfp) document,"Describe what is the ""request for proposal (rfp)"" document in 40 words"
+DOC,request for quotation (rfq),Rewrite this text as if it was a request for quotation (rfq) document,"Describe what is the ""request for quotation (rfq)"" document in 40 words"
+DOC,statement of work (sow),Rewrite this text as if it was a statement of work (sow) document,"Describe what is the ""statement of work (sow)"" document in 40 words"
+DOC,customer contract,Rewrite this text as if it was a customer contract document,"Describe what is the ""customer contract"" document in 40 words"
+DOC,supplier contract,Rewrite this text as if it was a supplier contract document,"Describe what is the ""supplier contract"" document in 40 words"
+DOC,distribution agreement,Rewrite this text as if it was a distribution agreement document,"Describe what is the ""distribution agreement"" document in 40 words"
+DOC,joint venture agreement,Rewrite this text as if it was a joint venture agreement document,"Describe what is the ""joint venture agreement"" document in 40 words"
+DOC,franchise agreement,Rewrite this text as if it was a franchise agreement document,"Describe what is the ""franchise agreement"" document in 40 words"
+DOC,letter of intent (loi),Rewrite this text as if it was a letter of intent (loi) document,"Describe what is the ""letter of intent (loi)"" document in 40 words"
+DOC,minutes of meeting,Rewrite this text as if it was a minutes of meeting document,"Describe what is the ""minutes of meeting"" document in 40 words"
+DOC,progress report,Rewrite this text as if it was a progress report document,"Describe what is the ""progress report"" document in 40 words"
+DOC,quarterly report,Rewrite this text as if it was a quarterly report document,"Describe what is the ""quarterly report"" document in 40 words"
+DOC,monthly report,Rewrite this text as if it was a monthly report document,"Describe what is the ""monthly report"" document in 40 words"
+DOC,incident report,Rewrite this text as if it was a incident report document,"Describe what is the ""incident report"" document in 40 words"
+DOC,expense report,Rewrite this text as if it was a expense report document,"Describe what is the ""expense report"" document in 40 words"
+DOC,work order,Rewrite this text as if it was a work order document,"Describe what is the ""work order"" document in 40 words"
+DOC,change request,Rewrite this text as if it was a change request document,"Describe what is the ""change request"" document in 40 words"
+DOC,test plan,Rewrite this text as if it was a test plan document,"Describe what is the ""test plan"" document in 40 words"
+DOC,test case,Rewrite this text as if it was a test case document,"Describe what is the ""test case"" document in 40 words"
+DOC,user story,Rewrite this text as if it was a user story document,"Describe what is the ""user story"" document in 40 words"
+DOC,user journey map,Rewrite this text as if it was a user journey map document,"Describe what is the ""user journey map"" document in 40 words"
+DOC,product backlog,Rewrite this text as if it was a product backlog document,"Describe what is the ""product backlog"" document in 40 words"
+DOC,sprint backlog,Rewrite this text as if it was a sprint backlog document,"Describe what is the ""sprint backlog"" document in 40 words"
+DOC,release plan,Rewrite this text as if it was a release plan document,"Describe what is the ""release plan"" document in 40 words"
+DOC,product requirements document (prd),Rewrite this text as if it was a product requirements document (prd) document,"Describe what is the ""product requirements document (prd)"" document in 40 words"
+DOC,user interface (ui) design document,Rewrite this text as if it was a user interface (ui) design document document,"Describe what is the ""user interface (ui) design document"" document in 40 words"
+DOC,wireframe,Rewrite this text as if it was a wireframe document,"Describe what is the ""wireframe"" document in 40 words"
+DOC,prototype,Rewrite this text as if it was a prototype document,"Describe what is the ""prototype"" document in 40 words"
+DOC,product specification document,Rewrite this text as if it was a product specification document document,"Describe what is the ""product specification document"" document in 40 words"
+DOC,technical specification document,Rewrite this text as if it was a technical specification document document,"Describe what is the ""technical specification document"" document in 40 words"
+DOC,system architecture document,Rewrite this text as if it was a system architecture document document,"Describe what is the ""system architecture document"" document in 40 words"
+DOC,database schema,Rewrite this text as if it was a database schema document,"Describe what is the ""database schema"" document in 40 words"
+DOC,api documentation,Rewrite this text as if it was a api documentation document,"Describe what is the ""api documentation"" document in 40 words"
+DOC,code documentation,Rewrite this text as if it was a code documentation document,"Describe what is the ""code documentation"" document in 40 words"
+DOC,deployment plan,Rewrite this text as if it was a deployment plan document,"Describe what is the ""deployment plan"" document in 40 words"
+DOC,disaster recovery plan,Rewrite this text as if it was a disaster recovery plan document,"Describe what is the ""disaster recovery plan"" document in 40 words"
+DOC,business continuity plan,Rewrite this text as if it was a business continuity plan document,"Describe what is the ""business continuity plan"" document in 40 words"
+DOC,security policy,Rewrite this text as if it was a security policy document,"Describe what is the ""security policy"" document in 40 words"
+DOC,it infrastructure documentation,Rewrite this text as if it was a it infrastructure documentation document,"Describe what is the ""it infrastructure documentation"" document in 40 words"
+DOC,network diagram,Rewrite this text as if it was a network diagram document,"Describe what is the ""network diagram"" document in 40 words"
+DOC,user access matrix,Rewrite this text as if it was a user access matrix document,"Describe what is the ""user access matrix"" document in 40 words"
+DOC,privacy policy,Rewrite this text as if it was a privacy policy document,"Describe what is the ""privacy policy"" document in 40 words"
+DOC,terms of service,Rewrite this text as if it was a terms of service document,"Describe what is the ""terms of service"" document in 40 words"
+DOC,copyright notice,Rewrite this text as if it was a copyright notice document,"Describe what is the ""copyright notice"" document in 40 words"
+DOC,trademark registration,Rewrite this text as if it was a trademark registration document,"Describe what is the ""trademark registration"" document in 40 words"
+DOC,patent application,Rewrite this text as if it was a patent application document,"Describe what is the ""patent application"" document in 40 words"
+DOC,intellectual property assignment agreement,Rewrite this text as if it was a intellectual property assignment agreement document,"Describe what is the ""intellectual property assignment agreement"" document in 40 words"
+DOC,data privacy impact assessment,Rewrite this text as if it was a data privacy impact assessment document,"Describe what is the ""data privacy impact assessment"" document in 40 words"
+DOC,data retention policy,Rewrite this text as if it was a data retention policy document,"Describe what is the ""data retention policy"" document in 40 words"
+DOC,data breach response plan,Rewrite this text as if it was a data breach response plan document,"Describe what is the ""data breach response plan"" document in 40 words"
+DOC,it security policy,Rewrite this text as if it was a it security policy document,"Describe what is the ""it security policy"" document in 40 words"
+DOC,access control policy,Rewrite this text as if it was a access control policy document,"Describe what is the ""access control policy"" document in 40 words"
+DOC,incident response plan,Rewrite this text as if it was a incident response plan document,"Describe what is the ""incident response plan"" document in 40 words"
+DOC,supplier performance scorecard,Rewrite this text as if it was a supplier performance scorecard document,"Describe what is the ""supplier performance scorecard"" document in 40 words"
+DOC,employee performance review,Rewrite this text as if it was a employee performance review document,"Describe what is the ""employee performance review"" document in 40 words"
+DOC,training manual,Rewrite this text as if it was a training manual document,"Describe what is the ""training manual"" document in 40 words"
+DOC,onboarding guide,Rewrite this text as if it was a onboarding guide document,"Describe what is the ""onboarding guide"" document in 40 words"
+DOC,employee survey,Rewrite this text as if it was a employee survey document,"Describe what is the ""employee survey"" document in 40 words"
+DOC,customer satisfaction survey,Rewrite this text as if it was a customer satisfaction survey document,"Describe what is the ""customer satisfaction survey"" document in 40 words"
+DOC,market segmentation analysis,Rewrite this text as if it was a market segmentation analysis document,"Describe what is the ""market segmentation analysis"" document in 40 words"
+DOC,market opportunity analysis,Rewrite this text as if it was a market opportunity analysis document,"Describe what is the ""market opportunity analysis"" document in 40 words"
+DOC,product lifecycle analysis,Rewrite this text as if it was a product lifecycle analysis document,"Describe what is the ""product lifecycle analysis"" document in 40 words"
+DOC,portfolio analysis,Rewrite this text as if it was a portfolio analysis document,"Describe what is the ""portfolio analysis"" document in 40 words"
+DOC,risk management plan,Rewrite this text as if it was a risk management plan document,"Describe what is the ""risk management plan"" document in 40 words"
+DOC,business continuity plan,Rewrite this text as if it was a business continuity plan document,"Describe what is the ""business continuity plan"" document in 40 words"
+DOC,email,Rewrite this text as if it was a email document,"Describe what is the ""email"" document in 40 words"
+DOC,letter,Rewrite this text as if it was a letter document,"Describe what is the ""letter"" document in 40 words"
+DOC,resume,Rewrite this text as if it was a resume document,"Describe what is the ""resume"" document in 40 words"
+DOC,memo,Rewrite this text as if it was a memo document,"Describe what is the ""memo"" document in 40 words"
+DOC,"letter (business, formal, informal)","Rewrite this text as if it was a letter (business, formal, informal) document","Describe what is the ""letter (business, formal, informal)"" document in 40 words"
+DOC,"email (business, formal, informal)","Rewrite this text as if it was a email (business, formal, informal) document","Describe what is the ""email (business, formal, informal)"" document in 40 words"
+DOC,"report (annual, quarterly, monthly)","Rewrite this text as if it was a report (annual, quarterly, monthly) document","Describe what is the ""report (annual, quarterly, monthly)"" document in 40 words"
+DOC,proposal,Rewrite this text as if it was a proposal document,"Describe what is the ""proposal"" document in 40 words"
+DOC,agenda,Rewrite this text as if it was a agenda document,"Describe what is the ""agenda"" document in 40 words"
+DOC,minutes (meeting minutes),Rewrite this text as if it was a minutes (meeting minutes) document,"Describe what is the ""minutes (meeting minutes)"" document in 40 words"
+DOC,invoice,Rewrite this text as if it was a invoice document,"Describe what is the ""invoice"" document in 40 words"
+DOC,receipt,Rewrite this text as if it was a receipt document,"Describe what is the ""receipt"" document in 40 words"
+DOC,purchase order,Rewrite this text as if it was a purchase order document,"Describe what is the ""purchase order"" document in 40 words"
+DOC,contract,Rewrite this text as if it was a contract document,"Describe what is the ""contract"" document in 40 words"
+DOC,agreement,Rewrite this text as if it was a agreement document,"Describe what is the ""agreement"" document in 40 words"
+DOC,memorandum of understanding (mou),Rewrite this text as if it was a memorandum of understanding (mou) document,"Describe what is the ""memorandum of understanding (mou)"" document in 40 words"
+DOC,non-disclosure agreement (nda),Rewrite this text as if it was a non-disclosure agreement (nda) document,"Describe what is the ""non-disclosure agreement (nda)"" document in 40 words"
+DOC,memorandum,Rewrite this text as if it was a memorandum document,"Describe what is the ""memorandum"" document in 40 words"
+DOC,executive summary,Rewrite this text as if it was a executive summary document,"Describe what is the ""executive summary"" document in 40 words"
+DOC,press release,Rewrite this text as if it was a press release document,"Describe what is the ""press release"" document in 40 words"
+DOC,request for proposal (rfp),Rewrite this text as if it was a request for proposal (rfp) document,"Describe what is the ""request for proposal (rfp)"" document in 40 words"
+DOC,request for quotation (rfq),Rewrite this text as if it was a request for quotation (rfq) document,"Describe what is the ""request for quotation (rfq)"" document in 40 words"
+DOC,statement of work (sow),Rewrite this text as if it was a statement of work (sow) document,"Describe what is the ""statement of work (sow)"" document in 40 words"
+DOC,business plan,Rewrite this text as if it was a business plan document,"Describe what is the ""business plan"" document in 40 words"
+DOC,marketing plan,Rewrite this text as if it was a marketing plan document,"Describe what is the ""marketing plan"" document in 40 words"
+DOC,strategic plan,Rewrite this text as if it was a strategic plan document,"Describe what is the ""strategic plan"" document in 40 words"
+DOC,financial plan,Rewrite this text as if it was a financial plan document,"Describe what is the ""financial plan"" document in 40 words"
+DOC,project plan,Rewrite this text as if it was a project plan document,"Describe what is the ""project plan"" document in 40 words"
+DOC,budget,Rewrite this text as if it was a budget document,"Describe what is the ""budget"" document in 40 words"
+DOC,financial statement,Rewrite this text as if it was a financial statement document,"Describe what is the ""financial statement"" document in 40 words"
+DOC,balance sheet,Rewrite this text as if it was a balance sheet document,"Describe what is the ""balance sheet"" document in 40 words"
+DOC,income statement,Rewrite this text as if it was a income statement document,"Describe what is the ""income statement"" document in 40 words"
+DOC,cash flow statement,Rewrite this text as if it was a cash flow statement document,"Describe what is the ""cash flow statement"" document in 40 words"
+DOC,profit and loss statement (p&l),Rewrite this text as if it was a profit and loss statement (p&l) document,"Describe what is the ""profit and loss statement (p&l)"" document in 40 words"
+DOC,sales forecast,Rewrite this text as if it was a sales forecast document,"Describe what is the ""sales forecast"" document in 40 words"
+DOC,marketing strategy,Rewrite this text as if it was a marketing strategy document,"Describe what is the ""marketing strategy"" document in 40 words"
+DOC,business case,Rewrite this text as if it was a business case document,"Describe what is the ""business case"" document in 40 words"
+DOC,risk management plan,Rewrite this text as if it was a risk management plan document,"Describe what is the ""risk management plan"" document in 40 words"
+DOC,disaster recovery plan,Rewrite this text as if it was a disaster recovery plan document,"Describe what is the ""disaster recovery plan"" document in 40 words"
+DOC,contingency plan,Rewrite this text as if it was a contingency plan document,"Describe what is the ""contingency plan"" document in 40 words"
+DOC,action plan,Rewrite this text as if it was a action plan document,"Describe what is the ""action plan"" document in 40 words"
+DOC,training manual,Rewrite this text as if it was a training manual document,"Describe what is the ""training manual"" document in 40 words"
+DOC,policy document,Rewrite this text as if it was a policy document document,"Describe what is the ""policy document"" document in 40 words"
+DOC,procedure manual,Rewrite this text as if it was a procedure manual document,"Describe what is the ""procedure manual"" document in 40 words"
+DOC,employee handbook,Rewrite this text as if it was a employee handbook document,"Describe what is the ""employee handbook"" document in 40 words"
+DOC,operations manual,Rewrite this text as if it was a operations manual document,"Describe what is the ""operations manual"" document in 40 words"
+DOC,standard operating procedures (sop),Rewrite this text as if it was a standard operating procedures (sop) document,"Describe what is the ""standard operating procedures (sop)"" document in 40 words"
+DOC,quality assurance plan,Rewrite this text as if it was a quality assurance plan document,"Describe what is the ""quality assurance plan"" document in 40 words"
+DOC,business continuity plan,Rewrite this text as if it was a business continuity plan document,"Describe what is the ""business continuity plan"" document in 40 words"
+DOC,incident response plan,Rewrite this text as if it was a incident response plan document,"Describe what is the ""incident response plan"" document in 40 words"
+DOC,security policy,Rewrite this text as if it was a security policy document,"Describe what is the ""security policy"" document in 40 words"
+DOC,it governance document,Rewrite this text as if it was a it governance document document,"Describe what is the ""it governance document"" document in 40 words"
+DOC,service level agreement (sla),Rewrite this text as if it was a service level agreement (sla) document,"Describe what is the ""service level agreement (sla)"" document in 40 words"
+DOC,work order,Rewrite this text as if it was a work order document,"Describe what is the ""work order"" document in 40 words"
+DOC,change request,Rewrite this text as if it was a change request document,"Describe what is the ""change request"" document in 40 words"
+DOC,test plan,Rewrite this text as if it was a test plan document,"Describe what is the ""test plan"" document in 40 words"
+DOC,test case,Rewrite this text as if it was a test case document,"Describe what is the ""test case"" document in 40 words"
+DOC,user manual,Rewrite this text as if it was a user manual document,"Describe what is the ""user manual"" document in 40 words"
+DOC,technical specification,Rewrite this text as if it was a technical specification document,"Describe what is the ""technical specification"" document in 40 words"
+DOC,user guide,Rewrite this text as if it was a user guide document,"Describe what is the ""user guide"" document in 40 words"
+DOC,user requirement document (urd),Rewrite this text as if it was a user requirement document (urd) document,"Describe what is the ""user requirement document (urd)"" document in 40 words"
+DOC,system requirements specification (srs),Rewrite this text as if it was a system requirements specification (srs) document,"Describe what is the ""system requirements specification (srs)"" document in 40 words"
+DOC,request for change (rfc),Rewrite this text as if it was a request for change (rfc) document,"Describe what is the ""request for change (rfc)"" document in 40 words"
+DOC,service level requirement (slr),Rewrite this text as if it was a service level requirement (slr) document,"Describe what is the ""service level requirement (slr)"" document in 40 words"
+DOC,contract addendum,Rewrite this text as if it was a contract addendum document,"Describe what is the ""contract addendum"" document in 40 words"
+DOC,amendment,Rewrite this text as if it was a amendment document,"Describe what is the ""amendment"" document in 40 words"
+DOC,warranty document,Rewrite this text as if it was a warranty document document,"Describe what is the ""warranty document"" document in 40 words"
+DOC,installation guide,Rewrite this text as if it was a installation guide document,"Describe what is the ""installation guide"" document in 40 words"
+DOC,maintenance manual,Rewrite this text as if it was a maintenance manual document,"Describe what is the ""maintenance manual"" document in 40 words"
+DOC,inspection report,Rewrite this text as if it was a inspection report document,"Describe what is the ""inspection report"" document in 40 words"
+DOC,incident report,Rewrite this text as if it was a incident report document,"Describe what is the ""incident report"" document in 40 words"
+DOC,evaluation report,Rewrite this text as if it was a evaluation report document,"Describe what is the ""evaluation report"" document in 40 words"
+DOC,performance review,Rewrite this text as if it was a performance review document,"Describe what is the ""performance review"" document in 40 words"
+DOC,feedback form,Rewrite this text as if it was a feedback form document,"Describe what is the ""feedback form"" document in 40 words"
+DOC,survey,Rewrite this text as if it was a survey document,"Describe what is the ""survey"" document in 40 words"
+DOC,job description,Rewrite this text as if it was a job description document,"Describe what is the ""job description"" document in 40 words"
+DOC,position description,Rewrite this text as if it was a position description document,"Describe what is the ""position description"" document in 40 words"
+DOC,recruitment advertisement,Rewrite this text as if it was a recruitment advertisement document,"Describe what is the ""recruitment advertisement"" document in 40 words"
+DOC,employment contract,Rewrite this text as if it was a employment contract document,"Describe what is the ""employment contract"" document in 40 words"
+DOC,termination letter,Rewrite this text as if it was a termination letter document,"Describe what is the ""termination letter"" document in 40 words"
+DOC,resignation letter,Rewrite this text as if it was a resignation letter document,"Describe what is the ""resignation letter"" document in 40 words"
+DOC,promotion letter,Rewrite this text as if it was a promotion letter document,"Describe what is the ""promotion letter"" document in 40 words"
+DOC,transfer letter,Rewrite this text as if it was a transfer letter document,"Describe what is the ""transfer letter"" document in 40 words"
+DOC,recommendation letter,Rewrite this text as if it was a recommendation letter document,"Describe what is the ""recommendation letter"" document in 40 words"
+DOC,employee evaluation form,Rewrite this text as if it was a employee evaluation form document,"Describe what is the ""employee evaluation form"" document in 40 words"
+DOC,disciplinary action form,Rewrite this text as if it was a disciplinary action form document,"Describe what is the ""disciplinary action form"" document in 40 words"
+DOC,attendance record,Rewrite this text as if it was a attendance record document,"Describe what is the ""attendance record"" document in 40 words"
+DOC,training plan,Rewrite this text as if it was a training plan document,"Describe what is the ""training plan"" document in 40 words"
+DOC,training evaluation form,Rewrite this text as if it was a training evaluation form document,"Describe what is the ""training evaluation form"" document in 40 words"
+DOC,leave request form,Rewrite this text as if it was a leave request form document,"Describe what is the ""leave request form"" document in 40 words"
+DOC,expense report,Rewrite this text as if it was a expense report document,"Describe what is the ""expense report"" document in 40 words"
+DOC,purchase requisition,Rewrite this text as if it was a purchase requisition document,"Describe what is the ""purchase requisition"" document in 40 words"
+DOC,supplier evaluation form,Rewrite this text as if it was a supplier evaluation form document,"Describe what is the ""supplier evaluation form"" document in 40 words"
+DOC,supplier contract,Rewrite this text as if it was a supplier contract document,"Describe what is the ""supplier contract"" document in 40 words"
+DOC,supplier performance scorecard,Rewrite this text as if it was a supplier performance scorecard document,"Describe what is the ""supplier performance scorecard"" document in 40 words"
+DOC,supplier audit report,Rewrite this text as if it was a supplier audit report document,"Describe what is the ""supplier audit report"" document in 40 words"
+DOC,customer complaint form,Rewrite this text as if it was a customer complaint form document,"Describe what is the ""customer complaint form"" document in 40 words"
+DOC,customer satisfaction survey,Rewrite this text as if it was a customer satisfaction survey document,"Describe what is the ""customer satisfaction survey"" document in 40 words"
+DOC,customer feedback form,Rewrite this text as if it was a customer feedback form document,"Describe what is the ""customer feedback form"" document in 40 words"
+DOC,product specification document,Rewrite this text as if it was a product specification document document,"Describe what is the ""product specification document"" document in 40 words"
+DOC,product roadmap,Rewrite this text as if it was a product roadmap document,"Describe what is the ""product roadmap"" document in 40 words"
+DOC,product launch plan,Rewrite this text as if it was a product launch plan document,"Describe what is the ""product launch plan"" document in 40 words"
+DOC,release notes,Rewrite this text as if it was a release notes document,"Describe what is the ""release notes"" document in 40 words"
+DOC,sport comentary,Rewrite this text as if it was a sport comentary document,"Describe what is the ""sport comentary"" document in 40 words"
+MOVIE,"""The Godfather""","Rewrite this text but do it using the writing style of the movie ""The Godfather""","Describe the tone, style, topic of the movie """"The Godfather"""" in 40 words"
+MOVIE,"""The Shawshank Redemption""","Rewrite this text but do it using the writing style of the movie ""The Shawshank Redemption""","Describe the tone, style, topic of the movie """"The Shawshank Redemption"""" in 40 words"
+MOVIE,"""The Dark Knight""","Rewrite this text but do it using the writing style of the movie ""The Dark Knight""","Describe the tone, style, topic of the movie """"The Dark Knight"""" in 40 words"
+MOVIE,"""Schindler's List""","Rewrite this text but do it using the writing style of the movie ""Schindler's List""","Describe the tone, style, topic of the movie """"Schindler's List"""" in 40 words"
+MOVIE,"""Pulp Fiction""","Rewrite this text but do it using the writing style of the movie ""Pulp Fiction""","Describe the tone, style, topic of the movie """"Pulp Fiction"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Return of the King""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Return of the King""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Return of the King"""" in 40 words"
+MOVIE,"""The Good, the Bad and the Ugly""","Rewrite this text but do it using the writing style of the movie ""The Good, the Bad and the Ugly""","Describe the tone, style, topic of the movie """"The Good, the Bad and the Ugly"""" in 40 words"
+MOVIE,"""Fight Club""","Rewrite this text but do it using the writing style of the movie ""Fight Club""","Describe the tone, style, topic of the movie """"Fight Club"""" in 40 words"
+MOVIE,"""Forrest Gump""","Rewrite this text but do it using the writing style of the movie ""Forrest Gump""","Describe the tone, style, topic of the movie """"Forrest Gump"""" in 40 words"
+MOVIE,"""Inception""","Rewrite this text but do it using the writing style of the movie ""Inception""","Describe the tone, style, topic of the movie """"Inception"""" in 40 words"
+MOVIE,"""The Matrix""","Rewrite this text but do it using the writing style of the movie ""The Matrix""","Describe the tone, style, topic of the movie """"The Matrix"""" in 40 words"
+MOVIE,"""Star Wars: Episode IV - A New Hope""","Rewrite this text but do it using the writing style of the movie ""Star Wars: Episode IV - A New Hope""","Describe the tone, style, topic of the movie """"Star Wars: Episode IV - A New Hope"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Fellowship of the Ring""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Fellowship of the Ring""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Fellowship of the Ring"""" in 40 words"
+MOVIE,"""One Flew Over the Cuckoo's Nest""","Rewrite this text but do it using the writing style of the movie ""One Flew Over the Cuckoo's Nest""","Describe the tone, style, topic of the movie """"One Flew Over the Cuckoo's Nest"""" in 40 words"
+MOVIE,"""Goodfellas""","Rewrite this text but do it using the writing style of the movie ""Goodfellas""","Describe the tone, style, topic of the movie """"Goodfellas"""" in 40 words"
+MOVIE,"""The Silence of the Lambs""","Rewrite this text but do it using the writing style of the movie ""The Silence of the Lambs""","Describe the tone, style, topic of the movie """"The Silence of the Lambs"""" in 40 words"
+MOVIE,"""City of God""","Rewrite this text but do it using the writing style of the movie ""City of God""","Describe the tone, style, topic of the movie """"City of God"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Two Towers""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Two Towers""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Two Towers"""" in 40 words"
+MOVIE,"""Se7en""","Rewrite this text but do it using the writing style of the movie ""Se7en""","Describe the tone, style, topic of the movie """"Se7en"""" in 40 words"
+MOVIE,"""The Usual Suspects""","Rewrite this text but do it using the writing style of the movie ""The Usual Suspects""","Describe the tone, style, topic of the movie """"The Usual Suspects"""" in 40 words"
+MOVIE,"""Interstellar""","Rewrite this text but do it using the writing style of the movie ""Interstellar""","Describe the tone, style, topic of the movie """"Interstellar"""" in 40 words"
+MOVIE,"""The Green Mile""","Rewrite this text but do it using the writing style of the movie ""The Green Mile""","Describe the tone, style, topic of the movie """"The Green Mile"""" in 40 words"
+MOVIE,"""Léon: The Professional""","Rewrite this text but do it using the writing style of the movie ""Léon: The Professional""","Describe the tone, style, topic of the movie """"Léon: The Professional"""" in 40 words"
+MOVIE,"""The Godfather: Part II""","Rewrite this text but do it using the writing style of the movie ""The Godfather: Part II""","Describe the tone, style, topic of the movie """"The Godfather: Part II"""" in 40 words"
+MOVIE,"""Gladiator""","Rewrite this text but do it using the writing style of the movie ""Gladiator""","Describe the tone, style, topic of the movie """"Gladiator"""" in 40 words"
+MOVIE,"""Saving Private Ryan""","Rewrite this text but do it using the writing style of the movie ""Saving Private Ryan""","Describe the tone, style, topic of the movie """"Saving Private Ryan"""" in 40 words"
+MOVIE,"""The Departed""","Rewrite this text but do it using the writing style of the movie ""The Departed""","Describe the tone, style, topic of the movie """"The Departed"""" in 40 words"
+MOVIE,"""The Prestige""","Rewrite this text but do it using the writing style of the movie ""The Prestige""","Describe the tone, style, topic of the movie """"The Prestige"""" in 40 words"
+MOVIE,"""The Pianist""","Rewrite this text but do it using the writing style of the movie ""The Pianist""","Describe the tone, style, topic of the movie """"The Pianist"""" in 40 words"
+MOVIE,"""The Shining""","Rewrite this text but do it using the writing style of the movie ""The Shining""","Describe the tone, style, topic of the movie """"The Shining"""" in 40 words"
+MOVIE,"""The Lion King""","Rewrite this text but do it using the writing style of the movie ""The Lion King""","Describe the tone, style, topic of the movie """"The Lion King"""" in 40 words"
+MOVIE,"""The Dark Knight Rises""","Rewrite this text but do it using the writing style of the movie ""The Dark Knight Rises""","Describe the tone, style, topic of the movie """"The Dark Knight Rises"""" in 40 words"
+MOVIE,"""Inglourious Basterds""","Rewrite this text but do it using the writing style of the movie ""Inglourious Basterds""","Describe the tone, style, topic of the movie """"Inglourious Basterds"""" in 40 words"
+MOVIE,"""The Terminator""","Rewrite this text but do it using the writing style of the movie ""The Terminator""","Describe the tone, style, topic of the movie """"The Terminator"""" in 40 words"
+MOVIE,"""The Godfather: Part III""","Rewrite this text but do it using the writing style of the movie ""The Godfather: Part III""","Describe the tone, style, topic of the movie """"The Godfather: Part III"""" in 40 words"
+MOVIE,"""Reservoir Dogs""","Rewrite this text but do it using the writing style of the movie ""Reservoir Dogs""","Describe the tone, style, topic of the movie """"Reservoir Dogs"""" in 40 words"
+MOVIE,"""The Intouchables""","Rewrite this text but do it using the writing style of the movie ""The Intouchables""","Describe the tone, style, topic of the movie """"The Intouchables"""" in 40 words"
+MOVIE,"""The Grand Budapest Hotel""","Rewrite this text but do it using the writing style of the movie ""The Grand Budapest Hotel""","Describe the tone, style, topic of the movie """"The Grand Budapest Hotel"""" in 40 words"
+MOVIE,"""The Truman Show""","Rewrite this text but do it using the writing style of the movie ""The Truman Show""","Describe the tone, style, topic of the movie """"The Truman Show"""" in 40 words"
+MOVIE,"""Jurassic Park""","Rewrite this text but do it using the writing style of the movie ""Jurassic Park""","Describe the tone, style, topic of the movie """"Jurassic Park"""" in 40 words"
+MOVIE,"""The Sixth Sense""","Rewrite this text but do it using the writing style of the movie ""The Sixth Sense""","Describe the tone, style, topic of the movie """"The Sixth Sense"""" in 40 words"
+MOVIE,"""A Clockwork Orange""","Rewrite this text but do it using the writing style of the movie ""A Clockwork Orange""","Describe the tone, style, topic of the movie """"A Clockwork Orange"""" in 40 words"
+MOVIE,"""American History X""","Rewrite this text but do it using the writing style of the movie ""American History X""","Describe the tone, style, topic of the movie """"American History X"""" in 40 words"
+MOVIE,"""Schindler's List""","Rewrite this text but do it using the writing style of the movie ""Schindler's List""","Describe the tone, style, topic of the movie """"Schindler's List"""" in 40 words"
+MOVIE,"""The Exorcist""","Rewrite this text but do it using the writing style of the movie ""The Exorcist""","Describe the tone, style, topic of the movie """"The Exorcist"""" in 40 words"
+MOVIE,"""Braveheart""","Rewrite this text but do it using the writing style of the movie ""Braveheart""","Describe the tone, style, topic of the movie """"Braveheart"""" in 40 words"
+MOVIE,"""The Silence of the Lambs""","Rewrite this text but do it using the writing style of the movie ""The Silence of the Lambs""","Describe the tone, style, topic of the movie """"The Silence of the Lambs"""" in 40 words"
+MOVIE,"""The Shining""","Rewrite this text but do it using the writing style of the movie ""The Shining""","Describe the tone, style, topic of the movie """"The Shining"""" in 40 words"
+MOVIE,"""Psycho""","Rewrite this text but do it using the writing style of the movie ""Psycho""","Describe the tone, style, topic of the movie """"Psycho"""" in 40 words"
+MOVIE,"""The Matrix""","Rewrite this text but do it using the writing style of the movie ""The Matrix""","Describe the tone, style, topic of the movie """"The Matrix"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Return of the King""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Return of the King""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Return of the King"""" in 40 words"
+MOVIE,"""The Godfather""","Rewrite this text but do it using the writing style of the movie ""The Godfather""","Describe the tone, style, topic of the movie """"The Godfather"""" in 40 words"
+MOVIE,"""The Shawshank Redemption""","Rewrite this text but do it using the writing style of the movie ""The Shawshank Redemption""","Describe the tone, style, topic of the movie """"The Shawshank Redemption"""" in 40 words"
+MOVIE,"""Forrest Gump""","Rewrite this text but do it using the writing style of the movie ""Forrest Gump""","Describe the tone, style, topic of the movie """"Forrest Gump"""" in 40 words"
+MOVIE,"""Inception""","Rewrite this text but do it using the writing style of the movie ""Inception""","Describe the tone, style, topic of the movie """"Inception"""" in 40 words"
+MOVIE,"""The Lion King""","Rewrite this text but do it using the writing style of the movie ""The Lion King""","Describe the tone, style, topic of the movie """"The Lion King"""" in 40 words"
+MOVIE,"""The Dark Knight""","Rewrite this text but do it using the writing style of the movie ""The Dark Knight""","Describe the tone, style, topic of the movie """"The Dark Knight"""" in 40 words"
+MOVIE,"""Pulp Fiction""","Rewrite this text but do it using the writing style of the movie ""Pulp Fiction""","Describe the tone, style, topic of the movie """"Pulp Fiction"""" in 40 words"
+MOVIE,"""Star Wars: Episode IV - A New Hope""","Rewrite this text but do it using the writing style of the movie ""Star Wars: Episode IV - A New Hope""","Describe the tone, style, topic of the movie """"Star Wars: Episode IV - A New Hope"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Fellowship of the Ring""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Fellowship of the Ring""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Fellowship of the Ring"""" in 40 words"
+MOVIE,"""Schindler's List""","Rewrite this text but do it using the writing style of the movie ""Schindler's List""","Describe the tone, style, topic of the movie """"Schindler's List"""" in 40 words"
+MOVIE,"""Fight Club""","Rewrite this text but do it using the writing style of the movie ""Fight Club""","Describe the tone, style, topic of the movie """"Fight Club"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Two Towers""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Two Towers""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Two Towers"""" in 40 words"
+MOVIE,"""The Usual Suspects""","Rewrite this text but do it using the writing style of the movie ""The Usual Suspects""","Describe the tone, style, topic of the movie """"The Usual Suspects"""" in 40 words"
+MOVIE,"""The Silence of the Lambs""","Rewrite this text but do it using the writing style of the movie ""The Silence of the Lambs""","Describe the tone, style, topic of the movie """"The Silence of the Lambs"""" in 40 words"
+MOVIE,"""The Green Mile""","Rewrite this text but do it using the writing style of the movie ""The Green Mile""","Describe the tone, style, topic of the movie """"The Green Mile"""" in 40 words"
+MOVIE,"""Se7en""","Rewrite this text but do it using the writing style of the movie ""Se7en""","Describe the tone, style, topic of the movie """"Se7en"""" in 40 words"
+MOVIE,"""Interstellar""","Rewrite this text but do it using the writing style of the movie ""Interstellar""","Describe the tone, style, topic of the movie """"Interstellar"""" in 40 words"
+MOVIE,"""Gladiator""","Rewrite this text but do it using the writing style of the movie ""Gladiator""","Describe the tone, style, topic of the movie """"Gladiator"""" in 40 words"
+MOVIE,"""The Departed""","Rewrite this text but do it using the writing style of the movie ""The Departed""","Describe the tone, style, topic of the movie """"The Departed"""" in 40 words"
+MOVIE,"""The Godfather: Part II""","Rewrite this text but do it using the writing style of the movie ""The Godfather: Part II""","Describe the tone, style, topic of the movie """"The Godfather: Part II"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Return of the King""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Return of the King""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Return of the King"""" in 40 words"
+MOVIE,"""Pulp Fiction""","Rewrite this text but do it using the writing style of the movie ""Pulp Fiction""","Describe the tone, style, topic of the movie """"Pulp Fiction"""" in 40 words"
+MOVIE,"""The Dark Knight""","Rewrite this text but do it using the writing style of the movie ""The Dark Knight""","Describe the tone, style, topic of the movie """"The Dark Knight"""" in 40 words"
+MOVIE,"""Fight Club""","Rewrite this text but do it using the writing style of the movie ""Fight Club""","Describe the tone, style, topic of the movie """"Fight Club"""" in 40 words"
+MOVIE,"""The Shawshank Redemption""","Rewrite this text but do it using the writing style of the movie ""The Shawshank Redemption""","Describe the tone, style, topic of the movie """"The Shawshank Redemption"""" in 40 words"
+MOVIE,"""Forrest Gump""","Rewrite this text but do it using the writing style of the movie ""Forrest Gump""","Describe the tone, style, topic of the movie """"Forrest Gump"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Fellowship of the Ring""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Fellowship of the Ring""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Fellowship of the Ring"""" in 40 words"
+MOVIE,"""Star Wars: Episode IV - A New Hope""","Rewrite this text but do it using the writing style of the movie ""Star Wars: Episode IV - A New Hope""","Describe the tone, style, topic of the movie """"Star Wars: Episode IV - A New Hope"""" in 40 words"
+MOVIE,"""Inception""","Rewrite this text but do it using the writing style of the movie ""Inception""","Describe the tone, style, topic of the movie """"Inception"""" in 40 words"
+MOVIE,"""The Matrix""","Rewrite this text but do it using the writing style of the movie ""The Matrix""","Describe the tone, style, topic of the movie """"The Matrix"""" in 40 words"
+MOVIE,"""The Lord of the Rings: The Two Towers""","Rewrite this text but do it using the writing style of the movie ""The Lord of the Rings: The Two Towers""","Describe the tone, style, topic of the movie """"The Lord of the Rings: The Two Towers"""" in 40 words"
+MOVIE,"""Goodfellas""","Rewrite this text but do it using the writing style of the movie ""Goodfellas""","Describe the tone, style, topic of the movie """"Goodfellas"""" in 40 words"
+MOVIE,"""The Silence of the Lambs""","Rewrite this text but do it using the writing style of the movie ""The Silence of the Lambs""","Describe the tone, style, topic of the movie """"The Silence of the Lambs"""" in 40 words"
+MOVIE,"""Se7en""","Rewrite this text but do it using the writing style of the movie ""Se7en""","Describe the tone, style, topic of the movie """"Se7en"""" in 40 words"
+MOVIE,"""Schindler's List""","Rewrite this text but do it using the writing style of the movie ""Schindler's List""","Describe the tone, style, topic of the movie """"Schindler's List"""" in 40 words"
+MOVIE,"""The Godfather: Part II""","Rewrite this text but do it using the writing style of the movie ""The Godfather: Part II""","Describe the tone, style, topic of the movie """"The Godfather: Part II"""" in 40 words"
+MOVIE,"""The Usual Suspects""","Rewrite this text but do it using the writing style of the movie ""The Usual Suspects""","Describe the tone, style, topic of the movie """"The Usual Suspects"""" in 40 words"
+MOVIE,"""The Green Mile""","Rewrite this text but do it using the writing style of the movie ""The Green Mile""","Describe the tone, style, topic of the movie """"The Green Mile"""" in 40 words"
+MOVIE,"""The Departed""","Rewrite this text but do it using the writing style of the movie ""The Departed""","Describe the tone, style, topic of the movie """"The Departed"""" in 40 words"
+MOVIE,"""Interstellar""","Rewrite this text but do it using the writing style of the movie ""Interstellar""","Describe the tone, style, topic of the movie """"Interstellar"""" in 40 words"
+MOVIE,"""Gladiator""","Rewrite this text but do it using the writing style of the movie ""Gladiator""","Describe the tone, style, topic of the movie """"Gladiator"""" in 40 words"
+MOVIE,"""The Dark Knight Rises""","Rewrite this text but do it using the writing style of the movie ""The Dark Knight Rises""","Describe the tone, style, topic of the movie """"The Dark Knight Rises"""" in 40 words"
+MOVIE,"""The Pianist""","Rewrite this text but do it using the writing style of the movie ""The Pianist""","Describe the tone, style, topic of the movie """"The Pianist"""" in 40 words"
+MOVIE,"""The Prestige""","Rewrite this text but do it using the writing style of the movie ""The Prestige""","Describe the tone, style, topic of the movie """"The Prestige"""" in 40 words"
+MOVIE,"""The Intouchables""","Rewrite this text but do it using the writing style of the movie ""The Intouchables""","Describe the tone, style, topic of the movie """"The Intouchables"""" in 40 words"
+MOVIE,"""The Grand Budapest Hotel""","Rewrite this text but do it using the writing style of the movie ""The Grand Budapest Hotel""","Describe the tone, style, topic of the movie """"The Grand Budapest Hotel"""" in 40 words"
+MOVIE,"""The Truman Show""","Rewrite this text but do it using the writing style of the movie ""The Truman Show""","Describe the tone, style, topic of the movie """"The Truman Show"""" in 40 words"
+MOVIE,"""Jurassic Park""","Rewrite this text but do it using the writing style of the movie ""Jurassic Park""","Describe the tone, style, topic of the movie """"Jurassic Park"""" in 40 words"
+MOVIE,"""The Sixth Sense""","Rewrite this text but do it using the writing style of the movie ""The Sixth Sense""","Describe the tone, style, topic of the movie """"The Sixth Sense"""" in 40 words"
+MOVIE,The Walking Dead,Rewrite this text but do it using the writing style of the movie The Walking Dead,"Describe the tone, style, topic of the movie ""The Walking Dead"" in 40 words"
+PLAY,Hamlet,Rewrite this text but do it using the writing style of the play Hamlet,"Describe the tone, style, topic of the play ""Hamlet"" in 40 words"
+PLAY,Romeo and Juliet,Rewrite this text but do it using the writing style of the play Romeo and Juliet,"Describe the tone, style, topic of the play ""Romeo and Juliet"" in 40 words"
+PLAY,Macbeth,Rewrite this text but do it using the writing style of the play Macbeth,"Describe the tone, style, topic of the play ""Macbeth"" in 40 words"
+PLAY,A Midsummer Night's Dream,Rewrite this text but do it using the writing style of the play A Midsummer Night's Dream,"Describe the tone, style, topic of the play ""A Midsummer Night's Dream"" in 40 words"
+PLAY,Othello,Rewrite this text but do it using the writing style of the play Othello,"Describe the tone, style, topic of the play ""Othello"" in 40 words"
+PLAY,The Crucible,Rewrite this text but do it using the writing style of the play The Crucible,"Describe the tone, style, topic of the play ""The Crucible"" in 40 words"
+PLAY,Death of a Salesman,Rewrite this text but do it using the writing style of the play Death of a Salesman,"Describe the tone, style, topic of the play ""Death of a Salesman"" in 40 words"
+PLAY,A Streetcar Named Desire,Rewrite this text but do it using the writing style of the play A Streetcar Named Desire,"Describe the tone, style, topic of the play ""A Streetcar Named Desire"" in 40 words"
+PLAY,The Glass Menagerie,Rewrite this text but do it using the writing style of the play The Glass Menagerie,"Describe the tone, style, topic of the play ""The Glass Menagerie"" in 40 words"
+PLAY,Waiting for Godot,Rewrite this text but do it using the writing style of the play Waiting for Godot,"Describe the tone, style, topic of the play ""Waiting for Godot"" in 40 words"
+PLAY,The Importance of Being Earnest,Rewrite this text but do it using the writing style of the play The Importance of Being Earnest,"Describe the tone, style, topic of the play ""The Importance of Being Earnest"" in 40 words"
+PLAY,Long Day's Journey into Night,Rewrite this text but do it using the writing style of the play Long Day's Journey into Night,"Describe the tone, style, topic of the play ""Long Day's Journey into Night"" in 40 words"
+PLAY,Cat on a Hot Tin Roof,Rewrite this text but do it using the writing style of the play Cat on a Hot Tin Roof,"Describe the tone, style, topic of the play ""Cat on a Hot Tin Roof"" in 40 words"
+PLAY,Twelfth Night,Rewrite this text but do it using the writing style of the play Twelfth Night,"Describe the tone, style, topic of the play ""Twelfth Night"" in 40 words"
+PLAY,King Lear,Rewrite this text but do it using the writing style of the play King Lear,"Describe the tone, style, topic of the play ""King Lear"" in 40 words"
+PLAY,The Tempest,Rewrite this text but do it using the writing style of the play The Tempest,"Describe the tone, style, topic of the play ""The Tempest"" in 40 words"
+PLAY,Antigone,Rewrite this text but do it using the writing style of the play Antigone,"Describe the tone, style, topic of the play ""Antigone"" in 40 words"
+PLAY,Oedipus Rex,Rewrite this text but do it using the writing style of the play Oedipus Rex,"Describe the tone, style, topic of the play ""Oedipus Rex"" in 40 words"
+PLAY,A Doll's House,Rewrite this text but do it using the writing style of the play A Doll's House,"Describe the tone, style, topic of the play ""A Doll's House"" in 40 words"
+PLAY,The Cherry Orchard,Rewrite this text but do it using the writing style of the play The Cherry Orchard,"Describe the tone, style, topic of the play ""The Cherry Orchard"" in 40 words"
+PLAY,The Taming of the Shrew,Rewrite this text but do it using the writing style of the play The Taming of the Shrew,"Describe the tone, style, topic of the play ""The Taming of the Shrew"" in 40 words"
+PLAY,Julius Caesar,Rewrite this text but do it using the writing style of the play Julius Caesar,"Describe the tone, style, topic of the play ""Julius Caesar"" in 40 words"
+PLAY,Richard III,Rewrite this text but do it using the writing style of the play Richard III,"Describe the tone, style, topic of the play ""Richard III"" in 40 words"
+PLAY,A Raisin in the Sun,Rewrite this text but do it using the writing style of the play A Raisin in the Sun,"Describe the tone, style, topic of the play ""A Raisin in the Sun"" in 40 words"
+PLAY,The Merchant of Venice,Rewrite this text but do it using the writing style of the play The Merchant of Venice,"Describe the tone, style, topic of the play ""The Merchant of Venice"" in 40 words"
+PLAY,Much Ado About Nothing,Rewrite this text but do it using the writing style of the play Much Ado About Nothing,"Describe the tone, style, topic of the play ""Much Ado About Nothing"" in 40 words"
+PLAY,The Importance of Being Earnest,Rewrite this text but do it using the writing style of the play The Importance of Being Earnest,"Describe the tone, style, topic of the play ""The Importance of Being Earnest"" in 40 words"
+PLAY,An Inspector Calls,Rewrite this text but do it using the writing style of the play An Inspector Calls,"Describe the tone, style, topic of the play ""An Inspector Calls"" in 40 words"
+PLAY,As You Like It,Rewrite this text but do it using the writing style of the play As You Like It,"Describe the tone, style, topic of the play ""As You Like It"" in 40 words"
+PLAY,The Cherry Orchard,Rewrite this text but do it using the writing style of the play The Cherry Orchard,"Describe the tone, style, topic of the play ""The Cherry Orchard"" in 40 words"
+PLAY,The Seagull,Rewrite this text but do it using the writing style of the play The Seagull,"Describe the tone, style, topic of the play ""The Seagull"" in 40 words"
+PLAY,The Mousetrap,Rewrite this text but do it using the writing style of the play The Mousetrap,"Describe the tone, style, topic of the play ""The Mousetrap"" in 40 words"
+PLAY,The Phantom of the Opera,Rewrite this text but do it using the writing style of the play The Phantom of the Opera,"Describe the tone, style, topic of the play ""The Phantom of the Opera"" in 40 words"
+PLAY,Les Misérables,Rewrite this text but do it using the writing style of the play Les Misérables,"Describe the tone, style, topic of the play ""Les Misérables"" in 40 words"
+PLAY,The Lion King,Rewrite this text but do it using the writing style of the play The Lion King,"Describe the tone, style, topic of the play ""The Lion King"" in 40 words"
+PLAY,Wicked,Rewrite this text but do it using the writing style of the play Wicked,"Describe the tone, style, topic of the play ""Wicked"" in 40 words"
+PLAY,Rent,Rewrite this text but do it using the writing style of the play Rent,"Describe the tone, style, topic of the play ""Rent"" in 40 words"
+PLAY,West Side Story,Rewrite this text but do it using the writing style of the play West Side Story,"Describe the tone, style, topic of the play ""West Side Story"" in 40 words"
+PLAY,Chicago,Rewrite this text but do it using the writing style of the play Chicago,"Describe the tone, style, topic of the play ""Chicago"" in 40 words"
+PLAY,The Sound of Music,Rewrite this text but do it using the writing style of the play The Sound of Music,"Describe the tone, style, topic of the play ""The Sound of Music"" in 40 words"
+PLAY,A Chorus Line,Rewrite this text but do it using the writing style of the play A Chorus Line,"Describe the tone, style, topic of the play ""A Chorus Line"" in 40 words"
+PLAY,Cabaret,Rewrite this text but do it using the writing style of the play Cabaret,"Describe the tone, style, topic of the play ""Cabaret"" in 40 words"
+PLAY,Fiddler on the Roof,Rewrite this text but do it using the writing style of the play Fiddler on the Roof,"Describe the tone, style, topic of the play ""Fiddler on the Roof"" in 40 words"
+PLAY,Hamilton,Rewrite this text but do it using the writing style of the play Hamilton,"Describe the tone, style, topic of the play ""Hamilton"" in 40 words"
+PLAY,Sweeney Todd: The Demon Barber of Fleet Street,Rewrite this text but do it using the writing style of the play Sweeney Todd: The Demon Barber of Fleet Street,"Describe the tone, style, topic of the play ""Sweeney Todd: The Demon Barber of Fleet Street"" in 40 words"
+PLAY,Guys and Dolls,Rewrite this text but do it using the writing style of the play Guys and Dolls,"Describe the tone, style, topic of the play ""Guys and Dolls"" in 40 words"
+PLAY,My Fair Lady,Rewrite this text but do it using the writing style of the play My Fair Lady,"Describe the tone, style, topic of the play ""My Fair Lady"" in 40 words"
+PLAY,South Pacific,Rewrite this text but do it using the writing style of the play South Pacific,"Describe the tone, style, topic of the play ""South Pacific"" in 40 words"
+PLAY,The Phantom of the Opera,Rewrite this text but do it using the writing style of the play The Phantom of the Opera,"Describe the tone, style, topic of the play ""The Phantom of the Opera"" in 40 words"
+PLAY,Les Misérables,Rewrite this text but do it using the writing style of the play Les Misérables,"Describe the tone, style, topic of the play ""Les Misérables"" in 40 words"
+PLAY,The Lion King,Rewrite this text but do it using the writing style of the play The Lion King,"Describe the tone, style, topic of the play ""The Lion King"" in 40 words"
+PLAY,Wicked,Rewrite this text but do it using the writing style of the play Wicked,"Describe the tone, style, topic of the play ""Wicked"" in 40 words"
+PLAY,Rent,Rewrite this text but do it using the writing style of the play Rent,"Describe the tone, style, topic of the play ""Rent"" in 40 words"
+PLAY,West Side Story,Rewrite this text but do it using the writing style of the play West Side Story,"Describe the tone, style, topic of the play ""West Side Story"" in 40 words"
+PLAY,Chicago,Rewrite this text but do it using the writing style of the play Chicago,"Describe the tone, style, topic of the play ""Chicago"" in 40 words"
+PLAY,The Sound of Music,Rewrite this text but do it using the writing style of the play The Sound of Music,"Describe the tone, style, topic of the play ""The Sound of Music"" in 40 words"
+PLAY,A Chorus Line,Rewrite this text but do it using the writing style of the play A Chorus Line,"Describe the tone, style, topic of the play ""A Chorus Line"" in 40 words"
+PLAY,Cabaret,Rewrite this text but do it using the writing style of the play Cabaret,"Describe the tone, style, topic of the play ""Cabaret"" in 40 words"
+PLAY,Fiddler on the Roof,Rewrite this text but do it using the writing style of the play Fiddler on the Roof,"Describe the tone, style, topic of the play ""Fiddler on the Roof"" in 40 words"
+PLAY,Hamilton,Rewrite this text but do it using the writing style of the play Hamilton,"Describe the tone, style, topic of the play ""Hamilton"" in 40 words"
+PLAY,Sweeney Todd: The Demon Barber of Fleet Street,Rewrite this text but do it using the writing style of the play Sweeney Todd: The Demon Barber of Fleet Street,"Describe the tone, style, topic of the play ""Sweeney Todd: The Demon Barber of Fleet Street"" in 40 words"
+PLAY,Guys and Dolls,Rewrite this text but do it using the writing style of the play Guys and Dolls,"Describe the tone, style, topic of the play ""Guys and Dolls"" in 40 words"
+PLAY,My Fair Lady,Rewrite this text but do it using the writing style of the play My Fair Lady,"Describe the tone, style, topic of the play ""My Fair Lady"" in 40 words"
+PLAY,South Pacific,Rewrite this text but do it using the writing style of the play South Pacific,"Describe the tone, style, topic of the play ""South Pacific"" in 40 words"
+PLAY,The Phantom of the Opera,Rewrite this text but do it using the writing style of the play The Phantom of the Opera,"Describe the tone, style, topic of the play ""The Phantom of the Opera"" in 40 words"
+PLAY,Les Misérables,Rewrite this text but do it using the writing style of the play Les Misérables,"Describe the tone, style, topic of the play ""Les Misérables"" in 40 words"
+PLAY,The Lion King,Rewrite this text but do it using the writing style of the play The Lion King,"Describe the tone, style, topic of the play ""The Lion King"" in 40 words"
+PLAY,Wicked,Rewrite this text but do it using the writing style of the play Wicked,"Describe the tone, style, topic of the play ""Wicked"" in 40 words"
+PLAY,Rent,Rewrite this text but do it using the writing style of the play Rent,"Describe the tone, style, topic of the play ""Rent"" in 40 words"
+PLAY,West Side Story,Rewrite this text but do it using the writing style of the play West Side Story,"Describe the tone, style, topic of the play ""West Side Story"" in 40 words"
+PLAY,Chicago,Rewrite this text but do it using the writing style of the play Chicago,"Describe the tone, style, topic of the play ""Chicago"" in 40 words"
+PLAY,The Sound of Music,Rewrite this text but do it using the writing style of the play The Sound of Music,"Describe the tone, style, topic of the play ""The Sound of Music"" in 40 words"
+PLAY,A Chorus Line,Rewrite this text but do it using the writing style of the play A Chorus Line,"Describe the tone, style, topic of the play ""A Chorus Line"" in 40 words"
+PLAY,Cabaret,Rewrite this text but do it using the writing style of the play Cabaret,"Describe the tone, style, topic of the play ""Cabaret"" in 40 words"
+PLAY,Fiddler on the Roof,Rewrite this text but do it using the writing style of the play Fiddler on the Roof,"Describe the tone, style, topic of the play ""Fiddler on the Roof"" in 40 words"
+PLAY,Hamilton,Rewrite this text but do it using the writing style of the play Hamilton,"Describe the tone, style, topic of the play ""Hamilton"" in 40 words"
+PLAY,Sweeney Todd: The Demon Barber of Fleet Street,Rewrite this text but do it using the writing style of the play Sweeney Todd: The Demon Barber of Fleet Street,"Describe the tone, style, topic of the play ""Sweeney Todd: The Demon Barber of Fleet Street"" in 40 words"
+PLAY,Guys and Dolls,Rewrite this text but do it using the writing style of the play Guys and Dolls,"Describe the tone, style, topic of the play ""Guys and Dolls"" in 40 words"
+PLAY,My Fair Lady,Rewrite this text but do it using the writing style of the play My Fair Lady,"Describe the tone, style, topic of the play ""My Fair Lady"" in 40 words"
+PLAY,South Pacific,Rewrite this text but do it using the writing style of the play South Pacific,"Describe the tone, style, topic of the play ""South Pacific"" in 40 words"
+PLAY,The Phantom of the Opera,Rewrite this text but do it using the writing style of the play The Phantom of the Opera,"Describe the tone, style, topic of the play ""The Phantom of the Opera"" in 40 words"
+PLAY,Les Misérables,Rewrite this text but do it using the writing style of the play Les Misérables,"Describe the tone, style, topic of the play ""Les Misérables"" in 40 words"
+PLAY,The Lion King,Rewrite this text but do it using the writing style of the play The Lion King,"Describe the tone, style, topic of the play ""The Lion King"" in 40 words"
+PLAY,Wicked,Rewrite this text but do it using the writing style of the play Wicked,"Describe the tone, style, topic of the play ""Wicked"" in 40 words"
+PLAY,Rent,Rewrite this text but do it using the writing style of the play Rent,"Describe the tone, style, topic of the play ""Rent"" in 40 words"
+PLAY,West Side Story,Rewrite this text but do it using the writing style of the play West Side Story,"Describe the tone, style, topic of the play ""West Side Story"" in 40 words"
+PLAY,Chicago,Rewrite this text but do it using the writing style of the play Chicago,"Describe the tone, style, topic of the play ""Chicago"" in 40 words"
+PLAY,The Sound of Music,Rewrite this text but do it using the writing style of the play The Sound of Music,"Describe the tone, style, topic of the play ""The Sound of Music"" in 40 words"
+PLAY,A Chorus Line,Rewrite this text but do it using the writing style of the play A Chorus Line,"Describe the tone, style, topic of the play ""A Chorus Line"" in 40 words"
+PLAY,Cabaret,Rewrite this text but do it using the writing style of the play Cabaret,"Describe the tone, style, topic of the play ""Cabaret"" in 40 words"
+PLAY,Fiddler on the Roof,Rewrite this text but do it using the writing style of the play Fiddler on the Roof,"Describe the tone, style, topic of the play ""Fiddler on the Roof"" in 40 words"
+PLAY,Hamilton,Rewrite this text but do it using the writing style of the play Hamilton,"Describe the tone, style, topic of the play ""Hamilton"" in 40 words"
+PLAY,Sweeney Todd: The Demon Barber of Fleet Street,Rewrite this text but do it using the writing style of the play Sweeney Todd: The Demon Barber of Fleet Street,"Describe the tone, style, topic of the play ""Sweeney Todd: The Demon Barber of Fleet Street"" in 40 words"
+PLAY,Guys and Dolls,Rewrite this text but do it using the writing style of the play Guys and Dolls,"Describe the tone, style, topic of the play ""Guys and Dolls"" in 40 words"
+PLAY,My Fair Lady,Rewrite this text but do it using the writing style of the play My Fair Lady,"Describe the tone, style, topic of the play ""My Fair Lady"" in 40 words"
+PLAY,South Pacific,Rewrite this text but do it using the writing style of the play South Pacific,"Describe the tone, style, topic of the play ""South Pacific"" in 40 words"
+PLAY,The Phantom of the Opera,Rewrite this text but do it using the writing style of the play The Phantom of the Opera,"Describe the tone, style, topic of the play ""The Phantom of the Opera"" in 40 words"
+PLAY,Les Misérables,Rewrite this text but do it using the writing style of the play Les Misérables,"Describe the tone, style, topic of the play ""Les Misérables"" in 40 words"
+PLAY,The Lion King,Rewrite this text but do it using the writing style of the play The Lion King,"Describe the tone, style, topic of the play ""The Lion King"" in 40 words"
+PLAY,Wicked,Rewrite this text but do it using the writing style of the play Wicked,"Describe the tone, style, topic of the play ""Wicked"" in 40 words"
+STYLE,poem,Rewrite this text as if it was written as a poem,"Describe the writting style ""poem"" in 40 words"
+STYLE,sonnet,Rewrite this text as if it was written as a sonnet,"Describe the writting style ""sonnet"" in 40 words"
+STYLE,haiku,Rewrite this text as if it was written as a haiku,"Describe the writting style ""haiku"" in 40 words"
+STYLE,limerick,Rewrite this text as if it was written as a limerick,"Describe the writting style ""limerick"" in 40 words"
+STYLE,ballad,Rewrite this text as if it was written as a ballad,"Describe the writting style ""ballad"" in 40 words"
+STYLE,epic,Rewrite this text as if it was written as a epic,"Describe the writting style ""epic"" in 40 words"
+STYLE,ode,Rewrite this text as if it was written as a ode,"Describe the writting style ""ode"" in 40 words"
+STYLE,villanelle,Rewrite this text as if it was written as a villanelle,"Describe the writting style ""villanelle"" in 40 words"
+STYLE,free verse,Rewrite this text as if it was written as a free verse,"Describe the writting style ""free verse"" in 40 words"
+STYLE,blank verse,Rewrite this text as if it was written as a blank verse,"Describe the writting style ""blank verse"" in 40 words"
+STYLE,sestina,Rewrite this text as if it was written as a sestina,"Describe the writting style ""sestina"" in 40 words"
+STYLE,ghazal,Rewrite this text as if it was written as a ghazal,"Describe the writting style ""ghazal"" in 40 words"
+STYLE,pantoum,Rewrite this text as if it was written as a pantoum,"Describe the writting style ""pantoum"" in 40 words"
+STYLE,tanka,Rewrite this text as if it was written as a tanka,"Describe the writting style ""tanka"" in 40 words"
+STYLE,acrostic,Rewrite this text as if it was written as a acrostic,"Describe the writting style ""acrostic"" in 40 words"
+STYLE,elegy,Rewrite this text as if it was written as a elegy,"Describe the writting style ""elegy"" in 40 words"
+STYLE,prose poem,Rewrite this text as if it was written as a prose poem,"Describe the writting style ""prose poem"" in 40 words"
+STYLE,concrete poetry,Rewrite this text as if it was written as a concrete poetry,"Describe the writting style ""concrete poetry"" in 40 words"
+STYLE,narrative poem,Rewrite this text as if it was written as a narrative poem,"Describe the writting style ""narrative poem"" in 40 words"
+STYLE,lyrical,Rewrite this text as if it was written as a lyrical,"Describe the writting style ""lyrical"" in 40 words"
+STYLE,lyric poem,Rewrite this text as if it was written as a lyric poem,"Describe the writting style ""lyric poem"" in 40 words"
+STYLE,romantic poetry,Rewrite this text as if it was written as a romantic poetry,"Describe the writting style ""romantic poetry"" in 40 words"
+STYLE,metaphysical poetry,Rewrite this text as if it was written as a metaphysical poetry,"Describe the writting style ""metaphysical poetry"" in 40 words"
+STYLE,pastoral poetry,Rewrite this text as if it was written as a pastoral poetry,"Describe the writting style ""pastoral poetry"" in 40 words"
+STYLE,satirical poetry,Rewrite this text as if it was written as a satirical poetry,"Describe the writting style ""satirical poetry"" in 40 words"
+STYLE,confessional poetry,Rewrite this text as if it was written as a confessional poetry,"Describe the writting style ""confessional poetry"" in 40 words"
+STYLE,surrealist poetry,Rewrite this text as if it was written as a surrealist poetry,"Describe the writting style ""surrealist poetry"" in 40 words"
+STYLE,modernist poetry,Rewrite this text as if it was written as a modernist poetry,"Describe the writting style ""modernist poetry"" in 40 words"
+STYLE,postmodernist poetry,Rewrite this text as if it was written as a postmodernist poetry,"Describe the writting style ""postmodernist poetry"" in 40 words"
+STYLE,beat poetry,Rewrite this text as if it was written as a beat poetry,"Describe the writting style ""beat poetry"" in 40 words"
+STYLE,slam poetry,Rewrite this text as if it was written as a slam poetry,"Describe the writting style ""slam poetry"" in 40 words"
+STYLE,spoken word poetry,Rewrite this text as if it was written as a spoken word poetry,"Describe the writting style ""spoken word poetry"" in 40 words"
+STYLE,found poetry,Rewrite this text as if it was written as a found poetry,"Describe the writting style ""found poetry"" in 40 words"
+STYLE,epistolary poetry,Rewrite this text as if it was written as a epistolary poetry,"Describe the writting style ""epistolary poetry"" in 40 words"
+STYLE,eclogue,Rewrite this text as if it was written as a eclogue,"Describe the writting style ""eclogue"" in 40 words"
+STYLE,sapphic stanza,Rewrite this text as if it was written as a sapphic stanza,"Describe the writting style ""sapphic stanza"" in 40 words"
+STYLE,terza rima,Rewrite this text as if it was written as a terza rima,"Describe the writting style ""terza rima"" in 40 words"
+STYLE,tercet,Rewrite this text as if it was written as a tercet,"Describe the writting style ""tercet"" in 40 words"
+STYLE,quatrain,Rewrite this text as if it was written as a quatrain,"Describe the writting style ""quatrain"" in 40 words"
+STYLE,quintain,Rewrite this text as if it was written as a quintain,"Describe the writting style ""quintain"" in 40 words"
+STYLE,sextain,Rewrite this text as if it was written as a sextain,"Describe the writting style ""sextain"" in 40 words"
+STYLE,octave,Rewrite this text as if it was written as a octave,"Describe the writting style ""octave"" in 40 words"
+STYLE,envoi,Rewrite this text as if it was written as a envoi,"Describe the writting style ""envoi"" in 40 words"
+STYLE,refrain,Rewrite this text as if it was written as a refrain,"Describe the writting style ""refrain"" in 40 words"
+STYLE,villancico,Rewrite this text as if it was written as a villancico,"Describe the writting style ""villancico"" in 40 words"
+STYLE,canto,Rewrite this text as if it was written as a canto,"Describe the writting style ""canto"" in 40 words"
+STYLE,stanza,Rewrite this text as if it was written as a stanza,"Describe the writting style ""stanza"" in 40 words"
+STYLE,strophe,Rewrite this text as if it was written as a strophe,"Describe the writting style ""strophe"" in 40 words"
+STYLE,verse,Rewrite this text as if it was written as a verse,"Describe the writting style ""verse"" in 40 words"
+STYLE,lyricism,Rewrite this text as if it was written as a lyricism,"Describe the writting style ""lyricism"" in 40 words"
+STYLE,prose,Rewrite this text as if it was written as a prose,"Describe the writting style ""prose"" in 40 words"
+STYLE,fiction,Rewrite this text as if it was written as a fiction,"Describe the writting style ""fiction"" in 40 words"
+STYLE,non-fiction,Rewrite this text as if it was written as a non-fiction,"Describe the writting style ""non-fiction"" in 40 words"
+STYLE,memoir,Rewrite this text as if it was written as a memoir,"Describe the writting style ""memoir"" in 40 words"
+STYLE,autobiography,Rewrite this text as if it was written as a autobiography,"Describe the writting style ""autobiography"" in 40 words"
+STYLE,biography,Rewrite this text as if it was written as a biography,"Describe the writting style ""biography"" in 40 words"
+STYLE,travelogue,Rewrite this text as if it was written as a travelogue,"Describe the writting style ""travelogue"" in 40 words"
+STYLE,essay,Rewrite this text as if it was written as a essay,"Describe the writting style ""essay"" in 40 words"
+STYLE,article,Rewrite this text as if it was written as a article,"Describe the writting style ""article"" in 40 words"
+STYLE,review,Rewrite this text as if it was written as a review,"Describe the writting style ""review"" in 40 words"
+STYLE,critique,Rewrite this text as if it was written as a critique,"Describe the writting style ""critique"" in 40 words"
+STYLE,editorial,Rewrite this text as if it was written as a editorial,"Describe the writting style ""editorial"" in 40 words"
+STYLE,feature story,Rewrite this text as if it was written as a feature story,"Describe the writting style ""feature story"" in 40 words"
+STYLE,interview,Rewrite this text as if it was written as a interview,"Describe the writting style ""interview"" in 40 words"
+STYLE,satire,Rewrite this text as if it was written as a satire,"Describe the writting style ""satire"" in 40 words"
+STYLE,comedy,Rewrite this text as if it was written as a comedy,"Describe the writting style ""comedy"" in 40 words"
+STYLE,tragedy,Rewrite this text as if it was written as a tragedy,"Describe the writting style ""tragedy"" in 40 words"
+STYLE,drama,Rewrite this text as if it was written as a drama,"Describe the writting style ""drama"" in 40 words"
+STYLE,screenplay,Rewrite this text as if it was written as a screenplay,"Describe the writting style ""screenplay"" in 40 words"
+STYLE,play,Rewrite this text as if it was written as a play,"Describe the writting style ""play"" in 40 words"
+STYLE,monologue,Rewrite this text as if it was written as a monologue,"Describe the writting style ""monologue"" in 40 words"
+STYLE,soliloquy,Rewrite this text as if it was written as a soliloquy,"Describe the writting style ""soliloquy"" in 40 words"
+STYLE,dialogue,Rewrite this text as if it was written as a dialogue,"Describe the writting style ""dialogue"" in 40 words"
+STYLE,script,Rewrite this text as if it was written as a script,"Describe the writting style ""script"" in 40 words"
+STYLE,libretto,Rewrite this text as if it was written as a libretto,"Describe the writting style ""libretto"" in 40 words"
+STYLE,epic poetry,Rewrite this text as if it was written as a epic poetry,"Describe the writting style ""epic poetry"" in 40 words"
+STYLE,folk tale,Rewrite this text as if it was written as a folk tale,"Describe the writting style ""folk tale"" in 40 words"
+STYLE,legend,Rewrite this text as if it was written as a legend,"Describe the writting style ""legend"" in 40 words"
+STYLE,myth,Rewrite this text as if it was written as a myth,"Describe the writting style ""myth"" in 40 words"
+STYLE,fable,Rewrite this text as if it was written as a fable,"Describe the writting style ""fable"" in 40 words"
+STYLE,fairy tale,Rewrite this text as if it was written as a fairy tale,"Describe the writting style ""fairy tale"" in 40 words"
+STYLE,allegory,Rewrite this text as if it was written as a allegory,"Describe the writting style ""allegory"" in 40 words"
+STYLE,parable,Rewrite this text as if it was written as a parable,"Describe the writting style ""parable"" in 40 words"
+STYLE,tall tale,Rewrite this text as if it was written as a tall tale,"Describe the writting style ""tall tale"" in 40 words"
+STYLE,urban legend,Rewrite this text as if it was written as a urban legend,"Describe the writting style ""urban legend"" in 40 words"
+STYLE,origin myth,Rewrite this text as if it was written as a origin myth,"Describe the writting style ""origin myth"" in 40 words"
+STYLE,creation myth,Rewrite this text as if it was written as a creation myth,"Describe the writting style ""creation myth"" in 40 words"
+STYLE,heroic myth,Rewrite this text as if it was written as a heroic myth,"Describe the writting style ""heroic myth"" in 40 words"
+STYLE,elegiac poetry,Rewrite this text as if it was written as a elegiac poetry,"Describe the writting style ""elegiac poetry"" in 40 words"
+STYLE,narrative verse,Rewrite this text as if it was written as a narrative verse,"Describe the writting style ""narrative verse"" in 40 words"
+STYLE,rhapsody,Rewrite this text as if it was written as a rhapsody,"Describe the writting style ""rhapsody"" in 40 words"
+STYLE,pastiche,Rewrite this text as if it was written as a pastiche,"Describe the writting style ""pastiche"" in 40 words"
+STYLE,homage,Rewrite this text as if it was written as a homage,"Describe the writting style ""homage"" in 40 words"
+STYLE,parody,Rewrite this text as if it was written as a parody,"Describe the writting style ""parody"" in 40 words"
+STYLE,mock epic,Rewrite this text as if it was written as a mock epic,"Describe the writting style ""mock epic"" in 40 words"
+STYLE,allegorical tale,Rewrite this text as if it was written as a allegorical tale,"Describe the writting style ""allegorical tale"" in 40 words"
+STYLE,metafiction,Rewrite this text as if it was written as a metafiction,"Describe the writting style ""metafiction"" in 40 words"
+STYLE,postcolonial literature,Rewrite this text as if it was written as a postcolonial literature,"Describe the writting style ""postcolonial literature"" in 40 words"
+STYLE,magical realism,Rewrite this text as if it was written as a magical realism,"Describe the writting style ""magical realism"" in 40 words"
+STYLE,absurdist literature,Rewrite this text as if it was written as a absurdist literature,"Describe the writting style ""absurdist literature"" in 40 words"
+STYLE,dystopian fiction,Rewrite this text as if it was written as a dystopian fiction,"Describe the writting style ""dystopian fiction"" in 40 words"
+STYLE,utopian fiction,Rewrite this text as if it was written as a utopian fiction,"Describe the writting style ""utopian fiction"" in 40 words"
+STYLE,historical fiction,Rewrite this text as if it was written as a historical fiction,"Describe the writting style ""historical fiction"" in 40 words"
+STYLE,gothic fiction,Rewrite this text as if it was written as a gothic fiction,"Describe the writting style ""gothic fiction"" in 40 words"
+STYLE,bildungsroman,Rewrite this text as if it was written as a bildungsroman,"Describe the writting style ""bildungsroman"" in 40 words"
+STYLE,mystery,Rewrite this text as if it was written as a mystery,"Describe the writting style ""mystery"" in 40 words"
+STYLE,thriller,Rewrite this text as if it was written as a thriller,"Describe the writting style ""thriller"" in 40 words"
+STYLE,detective fiction,Rewrite this text as if it was written as a detective fiction,"Describe the writting style ""detective fiction"" in 40 words"
+STYLE,science fiction,Rewrite this text as if it was written as a science fiction,"Describe the writting style ""science fiction"" in 40 words"
+STYLE,fantasy,Rewrite this text as if it was written as a fantasy,"Describe the writting style ""fantasy"" in 40 words"
+STYLE,horror,Rewrite this text as if it was written as a horror,"Describe the writting style ""horror"" in 40 words"
+STYLE,romance,Rewrite this text as if it was written as a romance,"Describe the writting style ""romance"" in 40 words"
+STYLE,adventure,Rewrite this text as if it was written as a adventure,"Describe the writting style ""adventure"" in 40 words"
+STYLE,western,Rewrite this text as if it was written as a western,"Describe the writting style ""western"" in 40 words"
+STYLE,satirical fiction,Rewrite this text as if it was written as a satirical fiction,"Describe the writting style ""satirical fiction"" in 40 words"
+STYLE,realistic fiction,Rewrite this text as if it was written as a realistic fiction,"Describe the writting style ""realistic fiction"" in 40 words"
+STYLE,experimental fiction,Rewrite this text as if it was written as a experimental fiction,"Describe the writting style ""experimental fiction"" in 40 words"
+STYLE,flash fiction,Rewrite this text as if it was written as a flash fiction,"Describe the writting style ""flash fiction"" in 40 words"
+STYLE,short story,Rewrite this text as if it was written as a short story,"Describe the writting style ""short story"" in 40 words"
+STYLE,novella,Rewrite this text as if it was written as a novella,"Describe the writting style ""novella"" in 40 words"
+STYLE,novel,Rewrite this text as if it was written as a novel,"Describe the writting style ""novel"" in 40 words"
+STYLE,sea shanty,Rewrite this text as if it was written as a sea shanty,"Describe the writting style ""sea shanty"" in 40 words"
+STYLE,narrative,Rewrite this text as if it was written as a narrative,"Describe the writting style ""narrative"" in 40 words"
+STYLE,descriptive,Rewrite this text as if it was written as a descriptive,"Describe the writting style ""descriptive"" in 40 words"
+STYLE,expository,Rewrite this text as if it was written as a expository,"Describe the writting style ""expository"" in 40 words"
+STYLE,persuasive,Rewrite this text as if it was written as a persuasive,"Describe the writting style ""persuasive"" in 40 words"
+STYLE,argumentative,Rewrite this text as if it was written as a argumentative,"Describe the writting style ""argumentative"" in 40 words"
+STYLE,analytical,Rewrite this text as if it was written as a analytical,"Describe the writting style ""analytical"" in 40 words"
+STYLE,reflective,Rewrite this text as if it was written as a reflective,"Describe the writting style ""reflective"" in 40 words"
+STYLE,creative,Rewrite this text as if it was written as a creative,"Describe the writting style ""creative"" in 40 words"
+STYLE,technical,Rewrite this text as if it was written as a technical,"Describe the writting style ""technical"" in 40 words"
+STYLE,academic,Rewrite this text as if it was written as a academic,"Describe the writting style ""academic"" in 40 words"
+STYLE,journalistic,Rewrite this text as if it was written as a journalistic,"Describe the writting style ""journalistic"" in 40 words"
+STYLE,autobiographical,Rewrite this text as if it was written as a autobiographical,"Describe the writting style ""autobiographical"" in 40 words"
+STYLE,biographical,Rewrite this text as if it was written as a biographical,"Describe the writting style ""biographical"" in 40 words"
+STYLE,historical,Rewrite this text as if it was written as a historical,"Describe the writting style ""historical"" in 40 words"
+STYLE,fictional,Rewrite this text as if it was written as a fictional,"Describe the writting style ""fictional"" in 40 words"
+STYLE,non-fictional,Rewrite this text as if it was written as a non-fictional,"Describe the writting style ""non-fictional"" in 40 words"
+STYLE,satirical,Rewrite this text as if it was written as a satirical,"Describe the writting style ""satirical"" in 40 words"
+STYLE,comedy,Rewrite this text as if it was written as a comedy,"Describe the writting style ""comedy"" in 40 words"
+STYLE,tragedy,Rewrite this text as if it was written as a tragedy,"Describe the writting style ""tragedy"" in 40 words"
+STYLE,drama,Rewrite this text as if it was written as a drama,"Describe the writting style ""drama"" in 40 words"
+STYLE,romance,Rewrite this text as if it was written as a romance,"Describe the writting style ""romance"" in 40 words"
+STYLE,mystery,Rewrite this text as if it was written as a mystery,"Describe the writting style ""mystery"" in 40 words"
+STYLE,thriller,Rewrite this text as if it was written as a thriller,"Describe the writting style ""thriller"" in 40 words"
+STYLE,horror,Rewrite this text as if it was written as a horror,"Describe the writting style ""horror"" in 40 words"
+STYLE,fantasy,Rewrite this text as if it was written as a fantasy,"Describe the writting style ""fantasy"" in 40 words"
+STYLE,science fiction,Rewrite this text as if it was written as a science fiction,"Describe the writting style ""science fiction"" in 40 words"
+STYLE,dystopian,Rewrite this text as if it was written as a dystopian,"Describe the writting style ""dystopian"" in 40 words"
+STYLE,utopian,Rewrite this text as if it was written as a utopian,"Describe the writting style ""utopian"" in 40 words"
+STYLE,historical fiction,Rewrite this text as if it was written as a historical fiction,"Describe the writting style ""historical fiction"" in 40 words"
+STYLE,realistic fiction,Rewrite this text as if it was written as a realistic fiction,"Describe the writting style ""realistic fiction"" in 40 words"
+STYLE,gothic fiction,Rewrite this text as if it was written as a gothic fiction,"Describe the writting style ""gothic fiction"" in 40 words"
+STYLE,bildungsroman,Rewrite this text as if it was written as a bildungsroman,"Describe the writting style ""bildungsroman"" in 40 words"
+STYLE,epistolary,Rewrite this text as if it was written as a epistolary,"Describe the writting style ""epistolary"" in 40 words"
+STYLE,stream of consciousness,Rewrite this text as if it was written as a stream of consciousness,"Describe the writting style ""stream of consciousness"" in 40 words"
+STYLE,surrealistic,Rewrite this text as if it was written as a surrealistic,"Describe the writting style ""surrealistic"" in 40 words"
+STYLE,magical realism,Rewrite this text as if it was written as a magical realism,"Describe the writting style ""magical realism"" in 40 words"
+STYLE,metafiction,Rewrite this text as if it was written as a metafiction,"Describe the writting style ""metafiction"" in 40 words"
+STYLE,experimental,Rewrite this text as if it was written as a experimental,"Describe the writting style ""experimental"" in 40 words"
+STYLE,flash fiction,Rewrite this text as if it was written as a flash fiction,"Describe the writting style ""flash fiction"" in 40 words"
+STYLE,short story,Rewrite this text as if it was written as a short story,"Describe the writting style ""short story"" in 40 words"
+STYLE,novella,Rewrite this text as if it was written as a novella,"Describe the writting style ""novella"" in 40 words"
+STYLE,novel,Rewrite this text as if it was written as a novel,"Describe the writting style ""novel"" in 40 words"
+STYLE,prose,Rewrite this text as if it was written as a prose,"Describe the writting style ""prose"" in 40 words"
+STYLE,poetry,Rewrite this text as if it was written as a poetry,"Describe the writting style ""poetry"" in 40 words"
+STYLE,sonnet,Rewrite this text as if it was written as a sonnet,"Describe the writting style ""sonnet"" in 40 words"
+STYLE,haiku,Rewrite this text as if it was written as a haiku,"Describe the writting style ""haiku"" in 40 words"
+STYLE,limerick,Rewrite this text as if it was written as a limerick,"Describe the writting style ""limerick"" in 40 words"
+STYLE,ballad,Rewrite this text as if it was written as a ballad,"Describe the writting style ""ballad"" in 40 words"
+STYLE,epic,Rewrite this text as if it was written as a epic,"Describe the writting style ""epic"" in 40 words"
+STYLE,ode,Rewrite this text as if it was written as a ode,"Describe the writting style ""ode"" in 40 words"
+STYLE,villanelle,Rewrite this text as if it was written as a villanelle,"Describe the writting style ""villanelle"" in 40 words"
+STYLE,free verse,Rewrite this text as if it was written as a free verse,"Describe the writting style ""free verse"" in 40 words"
+STYLE,blank verse,Rewrite this text as if it was written as a blank verse,"Describe the writting style ""blank verse"" in 40 words"
+STYLE,sestina,Rewrite this text as if it was written as a sestina,"Describe the writting style ""sestina"" in 40 words"
+STYLE,ghazal,Rewrite this text as if it was written as a ghazal,"Describe the writting style ""ghazal"" in 40 words"
+STYLE,pantoum,Rewrite this text as if it was written as a pantoum,"Describe the writting style ""pantoum"" in 40 words"
+STYLE,tanka,Rewrite this text as if it was written as a tanka,"Describe the writting style ""tanka"" in 40 words"
+STYLE,acrostic,Rewrite this text as if it was written as a acrostic,"Describe the writting style ""acrostic"" in 40 words"
+STYLE,elegy,Rewrite this text as if it was written as a elegy,"Describe the writting style ""elegy"" in 40 words"
+STYLE,prose poem,Rewrite this text as if it was written as a prose poem,"Describe the writting style ""prose poem"" in 40 words"
+STYLE,concrete poetry,Rewrite this text as if it was written as a concrete poetry,"Describe the writting style ""concrete poetry"" in 40 words"
+STYLE,narrative poetry,Rewrite this text as if it was written as a narrative poetry,"Describe the writting style ""narrative poetry"" in 40 words"
+STYLE,lyric poetry,Rewrite this text as if it was written as a lyric poetry,"Describe the writting style ""lyric poetry"" in 40 words"
+STYLE,satirical poetry,Rewrite this text as if it was written as a satirical poetry,"Describe the writting style ""satirical poetry"" in 40 words"
+STYLE,confessional poetry,Rewrite this text as if it was written as a confessional poetry,"Describe the writting style ""confessional poetry"" in 40 words"
+STYLE,surrealist poetry,Rewrite this text as if it was written as a surrealist poetry,"Describe the writting style ""surrealist poetry"" in 40 words"
+STYLE,modernist poetry,Rewrite this text as if it was written as a modernist poetry,"Describe the writting style ""modernist poetry"" in 40 words"
+STYLE,postmodernist poetry,Rewrite this text as if it was written as a postmodernist poetry,"Describe the writting style ""postmodernist poetry"" in 40 words"
+STYLE,beat poetry,Rewrite this text as if it was written as a beat poetry,"Describe the writting style ""beat poetry"" in 40 words"
+STYLE,slam poetry,Rewrite this text as if it was written as a slam poetry,"Describe the writting style ""slam poetry"" in 40 words"
+STYLE,spoken word poetry,Rewrite this text as if it was written as a spoken word poetry,"Describe the writting style ""spoken word poetry"" in 40 words"
+STYLE,found poetry,Rewrite this text as if it was written as a found poetry,"Describe the writting style ""found poetry"" in 40 words"
+STYLE,epistolary poetry,Rewrite this text as if it was written as a epistolary poetry,"Describe the writting style ""epistolary poetry"" in 40 words"
+STYLE,eclogue,Rewrite this text as if it was written as a eclogue,"Describe the writting style ""eclogue"" in 40 words"
+STYLE,sapphic stanza,Rewrite this text as if it was written as a sapphic stanza,"Describe the writting style ""sapphic stanza"" in 40 words"
+STYLE,terza rima,Rewrite this text as if it was written as a terza rima,"Describe the writting style ""terza rima"" in 40 words"
+STYLE,tercet,Rewrite this text as if it was written as a tercet,"Describe the writting style ""tercet"" in 40 words"
+STYLE,quatrain,Rewrite this text as if it was written as a quatrain,"Describe the writting style ""quatrain"" in 40 words"
+STYLE,quintain,Rewrite this text as if it was written as a quintain,"Describe the writting style ""quintain"" in 40 words"
+STYLE,sextain,Rewrite this text as if it was written as a sextain,"Describe the writting style ""sextain"" in 40 words"
+STYLE,octave,Rewrite this text as if it was written as a octave,"Describe the writting style ""octave"" in 40 words"
+STYLE,envoi,Rewrite this text as if it was written as a envoi,"Describe the writting style ""envoi"" in 40 words"
+STYLE,refrain,Rewrite this text as if it was written as a refrain,"Describe the writting style ""refrain"" in 40 words"
+STYLE,villancico,Rewrite this text as if it was written as a villancico,"Describe the writting style ""villancico"" in 40 words"
+STYLE,canto,Rewrite this text as if it was written as a canto,"Describe the writting style ""canto"" in 40 words"
+STYLE,stanza,Rewrite this text as if it was written as a stanza,"Describe the writting style ""stanza"" in 40 words"
+STYLE,strophe,Rewrite this text as if it was written as a strophe,"Describe the writting style ""strophe"" in 40 words"
+STYLE,verse,Rewrite this text as if it was written as a verse,"Describe the writting style ""verse"" in 40 words"
+STYLE,lyricism,Rewrite this text as if it was written as a lyricism,"Describe the writting style ""lyricism"" in 40 words"
+STYLE,folk tale,Rewrite this text as if it was written as a folk tale,"Describe the writting style ""folk tale"" in 40 words"
+STYLE,legend,Rewrite this text as if it was written as a legend,"Describe the writting style ""legend"" in 40 words"
+STYLE,myth,Rewrite this text as if it was written as a myth,"Describe the writting style ""myth"" in 40 words"
+STYLE,fable,Rewrite this text as if it was written as a fable,"Describe the writting style ""fable"" in 40 words"
+STYLE,fairy tale,Rewrite this text as if it was written as a fairy tale,"Describe the writting style ""fairy tale"" in 40 words"
+STYLE,allegory,Rewrite this text as if it was written as a allegory,"Describe the writting style ""allegory"" in 40 words"
+STYLE,parable,Rewrite this text as if it was written as a parable,"Describe the writting style ""parable"" in 40 words"
+STYLE,tall tale,Rewrite this text as if it was written as a tall tale,"Describe the writting style ""tall tale"" in 40 words"
+STYLE,urban legend,Rewrite this text as if it was written as a urban legend,"Describe the writting style ""urban legend"" in 40 words"
+STYLE,origin myth,Rewrite this text as if it was written as a origin myth,"Describe the writting style ""origin myth"" in 40 words"
+STYLE,creation myth,Rewrite this text as if it was written as a creation myth,"Describe the writting style ""creation myth"" in 40 words"
+STYLE,heroic myth,Rewrite this text as if it was written as a heroic myth,"Describe the writting style ""heroic myth"" in 40 words"
+STYLE,elegiac poetry,Rewrite this text as if it was written as a elegiac poetry,"Describe the writting style ""elegiac poetry"" in 40 words"
+STYLE,narrative verse,Rewrite this text as if it was written as a narrative verse,"Describe the writting style ""narrative verse"" in 40 words"
+STYLE,rhapsody,Rewrite this text as if it was written as a rhapsody,"Describe the writting style ""rhapsody"" in 40 words"
+STYLE,pastiche,Rewrite this text as if it was written as a pastiche,"Describe the writting style ""pastiche"" in 40 words"
+STYLE,homage,Rewrite this text as if it was written as a homage,"Describe the writting style ""homage"" in 40 words"
+STYLE,parody,Rewrite this text as if it was written as a parody,"Describe the writting style ""parody"" in 40 words"
+STYLE,mock epic,Rewrite this text as if it was written as a mock epic,"Describe the writting style ""mock epic"" in 40 words"
+STYLE,allegorical tale,Rewrite this text as if it was written as a allegorical tale,"Describe the writting style ""allegorical tale"" in 40 words"
+STYLE,postcolonial literature,Rewrite this text as if it was written as a postcolonial literature,"Describe the writting style ""postcolonial literature"" in 40 words"
+STYLE,absurdist literature,Rewrite this text as if it was written as a absurdist literature,"Describe the writting style ""absurdist literature"" in 40 words"
+STYLE,satirical fiction,Rewrite this text as if it was written as a satirical fiction,"Describe the writting style ""satirical fiction"" in 40 words"
+STYLE,children's literature,Rewrite this text as if it was written as a children's literature,"Describe the writting style ""children's literature"" in 40 words"
+STYLE,young adult literature,Rewrite this text as if it was written as a young adult literature,"Describe the writting style ""young adult literature"" in 40 words"
+STYLE,middle grade literature,Rewrite this text as if it was written as a middle grade literature,"Describe the writting style ""middle grade literature"" in 40 words"
+STYLE,detective fiction,Rewrite this text as if it was written as a detective fiction,"Describe the writting style ""detective fiction"" in 40 words"
+STYLE,crime fiction,Rewrite this text as if it was written as a crime fiction,"Describe the writting style ""crime fiction"" in 40 words"
+STYLE,legal thriller,Rewrite this text as if it was written as a legal thriller,"Describe the writting style ""legal thriller"" in 40 words"
+STYLE,medical thriller,Rewrite this text as if it was written as a medical thriller,"Describe the writting style ""medical thriller"" in 40 words"
+STYLE,political thriller,Rewrite this text as if it was written as a political thriller,"Describe the writting style ""political thriller"" in 40 words"
